@@ -1,0 +1,2420 @@
+#EXTINF:-1,EPL 01:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9vJmtVWpigaqeJYnMlJl3-/ts
+#EXTINF:-1,EPL 02:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc82fPxfHOWP5LI0N5yjiKzc/ts
+#EXTINF:-1,EPL 03:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8XjqmXkgbivNtYsG52FTDo/ts
+#EXTINF:-1,EPL 04:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9CeZ2sOrmJwkSbMuQ8oldP/ts
+#EXTINF:-1,EPL 05:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-AnTxH0knTgCKgq1a47Mnf/ts
+#EXTINF:-1,EPL 06:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zY2C7WoJZFKmPIZJgasQL/ts
+#EXTINF:-1,EPL 07:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-oFJx9tXoxaoKs7oPDBoK2/ts
+#EXTINF:-1,EPL 08:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9BNes6_WCCYUKFL8hI9THH/ts
+#EXTINF:-1,EPL 09:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc96UG2xOl30hxQi8yELwD9t/ts
+#EXTINF:-1,EPL 10:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc938nAHENDjI72OCLxokwZI/ts
+#EXTINF:-1,EPL 11:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KHLHq4rROCtDYNG0RhH-5/ts
+#EXTINF:-1,EPL 12:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_T5ub5KiAmt1vuX8wGGoKF/ts
+#EXTINF:-1,EPL 13:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_JjDhvMaaKTvFoQrraO7Bm/ts
+#EXTINF:-1,EPL 14:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc93yMeu4R3bgMcoFFjyoek0/ts
+#EXTINF:-1,EPL 15:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_z-y7xXgefHvDEhvnfKNwn/ts
+#EXTINF:-1,EPL 16:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TPPNf1qYR5_sphxTZEcw8/ts
+#EXTINF:-1,EPL 17:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8G-p59lXlo0LKzBoVvmvJ2/ts
+#EXTINF:-1,EPL 18:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-5s3-7JqO5MEFQ1Kwyh1KA/ts
+#EXTINF:-1,EPL 19:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-3aOjjeyc4ITnRSnF0dwJq/ts
+#EXTINF:-1,EPL 20:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_J3rk1_sILdCwzfwDlvY9Y/ts
+#EXTINF:-1,EPL 4K: NOW 4K
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-yt_Dl1SzgA9qFqjEanXCw/ts
+#EXTINF:-1,Hearts FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_c3BYsPj5t6az8HIHRuZbZ/ts
+#EXTINF:-1,Hibernian FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_BemvZVXUgFPBowR_QpLnK/ts
+#EXTINF:-1,Hub Premier 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-tkzrSfirPdgH_9FMrow3o/ts
+#EXTINF:-1,Hub Premier 10 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_gb2Almv3XiBWVFvw-71He/ts
+#EXTINF:-1,Hub Premier 11 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-eQ30i3xyhx6xoJ87QTzKA/ts
+#EXTINF:-1,Hub Premier 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_fvubYwTX1RHMuWRd9WgVj/ts
+#EXTINF:-1,Hub Premier 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8lZQ_RkfaDgC68RhIFTRl8/ts
+#EXTINF:-1,Hub Premier 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-mRaRUZUSVDlezkvdKa25H/ts
+#EXTINF:-1,Hub Premier 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9jHMguRVKcRW8TE-8Z00ur/ts
+#EXTINF:-1,Hub Premier 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9rX_qOvzWKGlBLrdFz1S0l/ts
+#EXTINF:-1,Hub Premier 7 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-vn0W7B-DXHBoWarYGqyXU/ts
+#EXTINF:-1,Hub Premier 8 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-JHEZHpshdpUgYUd8Re3on/ts
+#EXTINF:-1,Hub Premier 9 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ULaeTdFJZGQqgkv2eYzt6/ts
+#EXTINF:-1,Kilmarnock FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_fluJsTewOGoRCxQsvNjzI/ts
+#EXTINF:-1,LEAGUE 1:Barnsley
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-n_yB5ZGcDLAeXK9E1Hfdk/ts
+#EXTINF:-1,LEAGUE 1:Blackpool
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DTZZgvJJflhsdi3Lg-52X/ts
+#EXTINF:-1,LEAGUE 1:Bolton Wanderers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc95da_T3mkPPwoKPpAxSTAU/ts
+#EXTINF:-1,LEAGUE 1:Bristol Rovers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6ASdDAskCs2nqHFppu4dt/ts
+#EXTINF:-1,LEAGUE 1:Burton Albion
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8QAFnOMLwDbw_BYQCqdbuk/ts
+#EXTINF:-1,LEAGUE 1:Cambridge United
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-9XpsubER_Ay_U8rOGIkyF/ts
+#EXTINF:-1,LEAGUE 1:Carlisle United
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-V6ZT_gX7fK9877rLjHrcj/ts
+#EXTINF:-1,LEAGUE 1:Charlton Athletic
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9NBp8o-itrMgtLf78ds6mK/ts
+#EXTINF:-1,LEAGUE 1:Cheltenham Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8_MC9dtFV2eFn_lPkY2Q9h/ts
+#EXTINF:-1,LEAGUE 1:Derby County
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Lt43w_buWPA3ti4jSSiml/ts
+#EXTINF:-1,LEAGUE 1:Exeter City
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-sV1bFflkpAi-Iqh1JDy7V/ts
+#EXTINF:-1,LEAGUE 1:Fleetwood Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_YW2DsYmBpobyJFpmUjYRI/ts
+#EXTINF:-1,LEAGUE 1:Leyton Orient
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GDXX8jXYS-f_rZzO-R8bQ/ts
+#EXTINF:-1,LEAGUE 1:Lincoln City
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-NvzOZtWAOMrDLBq4f2YCm/ts
+#EXTINF:-1,LEAGUE 1:Northampton Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8D53_FSdOxP4L5dGE1d_8V/ts
+#EXTINF:-1,LEAGUE 1:Oxford United
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_izNBGAynhUR-8XSVP7mCM/ts
+#EXTINF:-1,LEAGUE 1:Peterborough United
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8reqDlyJNEOjJ8NrXoAKkI/ts
+#EXTINF:-1,LEAGUE 1:Port Vale
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_tG-BiXWoP2UO1lqWOqYGT/ts
+#EXTINF:-1,LEAGUE 1:Portsmouth
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8W32vzVXwZUDCF0j6-l0ml/ts
+#EXTINF:-1,LEAGUE 1:Reading
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7JpWJIeogtPbyPVigjj7o/ts
+#EXTINF:-1,LEAGUE 1:Shrewsbury Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Q4NjT0PVhsxkb5E5rJaQZ/ts
+#EXTINF:-1,LEAGUE 1:Stevenage
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xwwxLEFda6dT2dTvzY18y/ts
+#EXTINF:-1,LEAGUE 1:Wigan Athletic
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9N8I6fhv6aC_Y8L_ibl7bU/ts
+#EXTINF:-1,LEAGUE 1:Wycombe Wanderers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8VFZe0ECNluGAnCVQZauYs/ts
+#EXTINF:-1,LEAGUE 2: Doncaster Rovers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8QSAc9GH2cVv8gfc_ZkJru/ts
+#EXTINF:-1,LEAGUE 2: Stockport County
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_d39UtliZ4oEfXfrVeNNn5/ts
+#EXTINF:-1,LEAGUE 2:Accrington Stanley
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_4WFQJRiph0wFz2w-9Zgl9/ts
+#EXTINF:-1,LEAGUE 2:AFC Wimbledon
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8EibCdq94VABhxCYCvwUvt/ts
+#EXTINF:-1,LEAGUE 2:Barrow
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IVAiyfUFdZK5XtrElJTVt/ts
+#EXTINF:-1,LEAGUE 2:Bradford City
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QnNdsN4jS34sy26_cadxG/ts
+#EXTINF:-1,LEAGUE 2:Colchester United
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9VeXmePGpPe_623I7jI1kL/ts
+#EXTINF:-1,LEAGUE 2:Crawley Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9GsDAjKvNbvnoCrDUCCijr/ts
+#EXTINF:-1,LEAGUE 2:Crewe Alexandra
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_evcVQdWsCmIwX9QuG2C9w/ts
+#EXTINF:-1,LEAGUE 2:Forest Green Rovers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8XL_jq3rYEd4j-MF_Q8-PS/ts
+#EXTINF:-1,LEAGUE 2:Gillingham
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9vuHN7Z-I9gs6htavdnR4M/ts
+#EXTINF:-1,LEAGUE 2:Grimsby Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-7Ih1TtxV4n_SlP0aWdpYW/ts
+#EXTINF:-1,LEAGUE 2:Harrogate Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-2KhY9UJo1aLrHKvQF5e1B/ts
+#EXTINF:-1,LEAGUE 2:Mansfield Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8SS7T3dQqzPa8L-kAehxFf/ts
+#EXTINF:-1,LEAGUE 2:MK Dons
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-n6RA-foInmR1q0S11zTCh/ts
+#EXTINF:-1,LEAGUE 2:Morecambe
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8dow39_oGjPOEI6eRYktxp/ts
+#EXTINF:-1,LEAGUE 2:Newport County
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9JybdDA0EkMBOTYaQhhWNb/ts
+#EXTINF:-1,LEAGUE 2:Notts County
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ZFcUuhI-KT783zxuuUPJl/ts
+#EXTINF:-1,LEAGUE 2:Salford City
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8nbpM9Y1j-c4pMY1lDsZIq/ts
+#EXTINF:-1,LEAGUE 2:Sutton United
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-NaGiATfG4_3FPLZUBfdtk/ts
+#EXTINF:-1,LEAGUE 2:Swindon Town
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_AW-MaCxxGn2D6ucS6sDDx/ts
+#EXTINF:-1,LEAGUE 2:Tranmere Rovers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-UTRlqPdcE215XiSbhqO_a/ts
+#EXTINF:-1,LEAGUE 2:Walsall
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8OAQR1SQ0_VyWncsOW8G2D/ts
+#EXTINF:-1,LEAGUE 2:Wrexham
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8RU0b9FYO6TL00pLgRs-_L/ts
+#EXTINF:-1,Livingston FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_cdsvBAvmhQfFTPrRDR2EA/ts
+#EXTINF:-1,Motherwell FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GB8xstKTnvnM6a9W9ewY9/ts
+#EXTINF:-1,NZ: Sky Sport 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9fI6y0Z9lMdqG0SKashPNG/ts
+#EXTINF:-1,NZ: Sky Sport 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GhVjTt6oCY7VZB4cIKrUq/ts
+#EXTINF:-1,NZ: Sky Sport 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Q14w9MHryHgoI7HN0q_UC/ts
+#EXTINF:-1,NZ: Sky Sport 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_PLkAsUKAFTR8lyY7K03MO/ts
+#EXTINF:-1,NZ: Sky Sport 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_I-x8kG-E8RUpbaJzGbub5/ts
+#EXTINF:-1,NZ: Sky Sport 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9f3nKHIgxtcEfeA1qV5KzO/ts
+#EXTINF:-1,NZ: Sky Sport 7 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-9NlEnvyu4GEC8P7ktmEI3/ts
+#EXTINF:-1,NZ: Sky Sport Premier League FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9mE9MNiQwdRm5jZIAgwnn9/ts
+#EXTINF:-1,NZ: Sky Sport 9 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_APgkDMYBBmzpfsarHS-3n/ts
+#EXTINF:-1,NZ: Sky Sport Select FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_07oMCk8aAE0M2we7xr8oL/ts
+#EXTINF:-1,Rangers TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_LxvFcdxUzWeA7MGB_iH3_/ts
+#EXTINF:-1,Ross County FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Ng8cZAjvaTpGCUgYMnLPg/ts
+#EXTINF:-1,SCOTTISH CHAMPIONSHIP FIXTURES
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ZYfmKBzfvhJh1NL9XnWwM/ts
+#EXTINF:-1,SCOTTISH LEAGUE ONE / CUP GAMES
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9zmVV0bgnDQcqMRfiI6VqX/ts
+#EXTINF:-1,SCOTTISH PREMIERSHIP FIXTURES
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Pyd23SgnYWBa5jtNaJCr7/ts
+#EXTINF:-1,SCOTTISH PREMIERSHIP TEAMS
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_cuarKjT0coD3JAY_Meldn/ts
+#EXTINF:-1,UK: Sky Sports Action FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8iv8lJCWlsmGh_TYOrnnNU/ts
+#EXTINF:-1,UK: Sky Sports Action HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_UzLhyo0nZ3gSWvMOU3_Al/ts
+#EXTINF:-1,UK: Sky Sports Action (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8XKWiWbnzlQuRTMC04eR6n/ts
+#EXTINF:-1,UK: Sky Sports Arena FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9v55d3V4Axj826DiWEcMU0/ts
+#EXTINF:-1,UK: Sky Sports Arena HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Ntyv4H8bdMuuyHiOlZIbe/ts
+#EXTINF:-1,UK: Sky Sports Arena (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Y8FSctdEXjO9LpKvjqbl9/ts
+#EXTINF:-1,UK: Sky Sports Cricket FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9eUGPpKLIy5Mi7s4J2TYG6/ts
+#EXTINF:-1,UK: Sky Sports Cricket HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9fqoOhNkV9b8g51sX91LFL/ts
+#EXTINF:-1,UK: Sky Sports Cricket (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TeMYkhJdArotEOSJ5qJBt/ts
+#EXTINF:-1,UK: Sky Sports F1 FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-tVoAC0g1WB6lv8OgpEHGS/ts
+#EXTINF:-1,UK: Sky Sports F1 HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_9c04kyYeMEnfTwGTBkS88/ts
+#EXTINF:-1,UK: Sky Sports F1 (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-2fW507-eC8CZZuf9K_XPM/ts
+#EXTINF:-1,UK: Sky Sports Football FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9GRAVshh8LCeaKW_I1Cx-7/ts
+#EXTINF:-1,UK: Sky Sports Football HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_OjIl_WL7iZA4ggl0ZX6ap/ts
+#EXTINF:-1,UK: Sky Sports Football (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_8eMS6UUo62P_HVYzqBNvi/ts
+#EXTINF:-1,UK: Sky Sports Golf FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9jJ497e5eXa8rRMFv76SIz/ts
+#EXTINF:-1,UK: Sky Sports Golf HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_YdvWBF3KY4rUlrSMEYh0B/ts
+#EXTINF:-1,UK: Sky Sports Golf (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Q0x08W8Xha7CKjpvJWlgw/ts
+#EXTINF:-1,UK: Sky Sports Main Event FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xqbL7BdTObDtweL_W-DH5/ts
+#EXTINF:-1,UK: Sky Sports Main Event HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9a4jWHB_BVm37It7S8Ykpy/ts
+#EXTINF:-1,UK: Sky Sports Main Event (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_JKyTfkavyLJck2kDjPtOc/ts
+#EXTINF:-1,UK: Sky Sports Mix FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zxXiXCH_pS3h-02phLFqY/ts
+#EXTINF:-1,UK: Sky Sports Mix HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9COE6fMDcKZhxS5n3wxna-/ts
+#EXTINF:-1,UK: Sky Sports Mix (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IMqQ896Hw7qq3kCOR3TmD/ts
+#EXTINF:-1,UK: Sky Sports News FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9VomkFcayZIPCUQsn-YzeX/ts
+#EXTINF:-1,UK: Sky Sports News HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_1pzIfwUOIM6SWlE95zGiL/ts
+#EXTINF:-1,UK: Sky Sports News (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9dBjRWwm0QLf_1c8UXR2xa/ts
+#EXTINF:-1,UK: Sky Sports Premier League FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_klSF1TwcCC9Ysy2chwKig/ts
+#EXTINF:-1,UK: Sky Sports Premier League HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cSfbHcou9ZNhMQr9Upp9N/ts
+#EXTINF:-1,UK: Sky Sports Premier League (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xGXiP_f3sAVROnkm87B-D/ts
+#EXTINF:-1,UK: Sky Sports Racing FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6JPhCkzLus9GHK951OEYj/ts
+#EXTINF:-1,UK: Sky Sports Racing HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-fKR8lchFyC2I_EVxoKvoU/ts
+#EXTINF:-1,UK: Sky Sports Racing (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6RmE7VnyEnryGzCbwh9o4/ts
+#EXTINF:-1,SL01: 19:45 Falkirk vs Cove Rangers
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Zv1c6yWA8XuetNBsp7czn/ts
+#EXTINF:-1,SL02:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9tmiO7GdqL4AsoMCZ_jLmp/ts
+#EXTINF:-1,SL03:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-XA9zJmQ-5xe_o1w9YzY8-/ts
+#EXTINF:-1,SL04:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gWcs-QR-KJEfPrLI1Bsm_/ts
+#EXTINF:-1,SL05:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9YTakqXxO7AdTr2iI1br8K/ts
+#EXTINF:-1,SL06:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-m7Guzos7AeK2RDvcJLsMN/ts
+#EXTINF:-1,SPFL Fixture 01:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-MM9xvyU19xOLuF18o7XO5/ts
+#EXTINF:-1,SPFL Fixture 02:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9tyIZlfwzueJm-ROjCULby/ts
+#EXTINF:-1,SPFL Fixture 03:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QZemHoTPhzqUe5fI_ph1j/ts
+#EXTINF:-1,SPFL Fixture 04:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_INswMo7YvP2gZzy9pw03K/ts
+#EXTINF:-1,SPFL Fixture 05:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7MVQPZ0I4ze-GFcGI-Fh9/ts
+#EXTINF:-1,SPFL Fixture 06:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7aoAEFys2LCEp3gGfv5R6/ts
+#EXTINF:-1,SPFL Fixture 07:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7zuKdCzDdSZ1mXtd_7DPG/ts
+#EXTINF:-1,St. Johnstone FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_zac8-BJ_7HvOtfPcMdYRD/ts
+#EXTINF:-1,St. Mirren FC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-0gLu-UaOC4Uh8tXdwbLDU/ts
+#EXTINF:-1,UK: TNT Sports 1 FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9hqdjJAmdTDASSuhl2W0u-/ts
+#EXTINF:-1,UK: TNT Sports 1 HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8LEc9a8HGMbeGI56p-b1KQ/ts
+#EXTINF:-1,UK: TNT Sports 1 (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7MQbpwgjfKXt-jSbOsBqt/ts
+#EXTINF:-1,UK: TNT Sports 2 FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_MvjYjoHNu9qoglofo-wzb/ts
+#EXTINF:-1,UK: TNT Sports 2 HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8n9fDr--T5nKE_whsd-hum/ts
+#EXTINF:-1,UK: TNT Sports 2 (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_e5X0xZr4psmOwVPOQmyBJ/ts
+#EXTINF:-1,UK: TNT Sports 3 FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9lyQdW0qesasWgmvvXbWE0/ts
+#EXTINF:-1,UK: TNT Sports 3 HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8fzyba633KyDIB9VAucmWN/ts
+#EXTINF:-1,UK: TNT Sports 3 (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-OM5L8_Yqbvi3fTRUuI3W1/ts
+#EXTINF:-1,UK: TNT Sports 4 FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-0XjbTHd2AT6yjyc1Ul30G/ts
+#EXTINF:-1,UK: TNT Sports 4 HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-14rtfTxXaOeafK3WBoZ_E/ts
+#EXTINF:-1,UK: TNT Sports 4 (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8aKGvXw84BBuoGZWitRFBL/ts
+#EXTINF:-1,UK: 4Music
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9YCzl_R7ckBpEJ_tm1kUh7/ts
+#EXTINF:-1,UK: Al Jazeera HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KZGvTLXq-200hkhBlJOjz/ts
+#EXTINF:-1,UK: Animal Planet +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_uw7WopH9kGLywT1jidEEW/ts
+#EXTINF:-1,UK: Animal Planet FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6L-nTNujBeL-jyPKrVkDm/ts
+#EXTINF:-1,UK: Apple TV+ Series 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8WaEk-jTgveQ6xVxiFsToP/ts
+#EXTINF:-1,UK: Apple TV+ Series 10 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2baox657Bg6s3TCz1HkLt/ts
+#EXTINF:-1,UK: Apple TV+ Series 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_mQlfJcLRmFCgNb-GJ77jS/ts
+#EXTINF:-1,UK: Apple TV+ Series 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc90HwbIeSXQegSLJbL2v4E1/ts
+#EXTINF:-1,UK: Apple TV+ Series 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_vkRpWNC6pQDLANvVe5btn/ts
+#EXTINF:-1,UK: Apple TV+ Series 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-IFAN9VlanhQnmhhypem8N/ts
+#EXTINF:-1,UK: Apple TV+ Series 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-J1J_-Oxe-MnW-nEInwLI9/ts
+#EXTINF:-1,UK: Apple TV+ Series 7 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9fKUCBtuQ_ZY5UIfD8_5Kl/ts
+#EXTINF:-1,UK: Apple TV+ Series 8 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Gdjru6RaRHVwnKHpkv9Kw/ts
+#EXTINF:-1,UK: Apple TV+ Series 9 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-avvny6q9Zl7EOy9PqBVB_/ts
+#EXTINF:-1,UK: Apple TV+ Series info FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_bUSdt5RP6FqbfkQXuOl6I/ts
+#EXTINF:-1,UK: Arirang TV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9iKL5QexlXr0od17EtFXae/ts
+#EXTINF:-1,UK: Arise News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9m4f8E1nkvKLQXHTZgT-Fs/ts
+#EXTINF:-1,UK: Baby TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8dXl9ylCzY3BAC1i8BXSPZ/ts
+#EXTINF:-1,UK: BBC News HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-VZhCncF53PE_-WmNQd5Q3/ts
+#EXTINF:-1,UK: BBC One FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8OS3p0cTv6qXPoyo5wwWfq/ts
+#EXTINF:-1,UK: BBC Parliament
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-hLetHZJtLXY9t8oGciVow/ts
+#EXTINF:-1,UK: BBC Scotland HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_X-7Dh95hxNa3DkkdkThbW/ts
+#EXTINF:-1,UK: BBC Three HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8kQCCgb6PmXvT8VY0JMTUO/ts
+#EXTINF:-1,UK: Best Direct
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9EwjMwdIHEqlzv_NiirXcI/ts
+#EXTINF:-1,UK: Bloomberg HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7nIy-IzxqFzGkmwmtPR6f/ts
+#EXTINF:-1,UK: Boomerang +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_v614y8o_bRI5TY5GE4b_4/ts
+#EXTINF:-1,UK: Boomerang FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9f9w2_Q6Bl-kt9hQmK9bpU/ts
+#EXTINF:-1,UK: Boomerang HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8EKBGze4_gQ8YDAydtxiu9/ts
+#EXTINF:-1,UK: Boomerang
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8BUSSLEiYvYg_TwDz7FZ-j/ts
+#EXTINF:-1,UK: Box Hits
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_VqaygSbkE-C8BNkySDSCi/ts
+#EXTINF:-1,UK: Cartoon Network +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8emhDv8dNxMPH4vbW0XL04/ts
+#EXTINF:-1,UK: Cartoon Network FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9d2pDZ6kvRTJfbsZCt7fpM/ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-20A22GahpdUMadOWksLJe/ts
+#EXTINF:-1,UK: Cartoon Network
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8UBH8ALzGCy4qcXypFDvbr/ts
+#EXTINF:-1,UK: Cartoonito
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc88IIFnMoAAkvdydgZGXfYQ/ts
+#EXTINF:-1,UK: CBBC HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IpBufWALs_G-8g5iuKRy7/ts
+#EXTINF:-1,UK: CBeebies HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9MrIzxq26ZKqqFMnilSKMj/ts
+#EXTINF:-1,UK: CBeebies
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ZkOn6twI1pOlDR6RoJppc/ts
+#EXTINF:-1,UK: Channels 24
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9F03TIL9ssePy9lS-Jz02X/ts
+#EXTINF:-1,UK: CITV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zP5c2zR1NHcfe2KoFlaCf/ts
+#EXTINF:-1,UK: Clubland TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9kWMuJo54A7a87s_GCU9m3/ts
+#EXTINF:-1,UK: CNBC HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9mRM_bLqAkDpLrtKcpzkqD/ts
+#EXTINF:-1,UK: CNN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9O7komUC3IA3t88_8heNh9/ts
+#EXTINF:-1,UK: CNN HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc83EMJdECiJam3tKMp9yXxv/ts
+#EXTINF:-1,UK: Craft Extra
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_U0bOmwQwi9rRj_FPrC5VP/ts
+#EXTINF:-1,UK: Crime + Investigation +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8opv5TD546PCvYh_Sefngc/ts
+#EXTINF:-1,UK: Crime + Investigation FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-5mLg4tKqxM-wWjBdeI1LI/ts
+#EXTINF:-1,UK: Crime + Investigation HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ta0swe2-lgKlP1xcQXyqM/ts
+#EXTINF:-1,UK: Crime + Investigation
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Xbiif_VRTQt3SrNS6Xd3T/ts
+#EXTINF:-1,UK: Cruise1st.tv
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Tx_JXBJ9_2J33QfRRfRm5/ts
+#EXTINF:-1,UK: DAZN 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc87NI9YPzSBc4vnv4tyPsrh/ts
+#EXTINF:-1,UK: Discovery +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2dZ8B1fMlnc0JYccpAHN0/ts
+#EXTINF:-1,UK: Discovery FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-9vVzNlDXHnyKOoXtnJNSI/ts
+#EXTINF:-1,UK: Discovery HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc88ntNDWbtPJOpkNv-3aOtx/ts
+#EXTINF:-1,UK: Discovery History +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9zsyMMaVrcPBLq36Q_UHfy/ts
+#EXTINF:-1,UK: Discovery History
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Bwi0FAhiN5l-hsHYnN7uW/ts
+#EXTINF:-1,UK: Discovery Science +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8NEdFYEs9gnZ_CiH3ecSlI/ts
+#EXTINF:-1,UK: Discovery Science
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ANUZhFwofRSNzWlLIaiIL/ts
+#EXTINF:-1,UK: Discovery
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ZNgnLqVi-mpoVH9dN_lB-/ts
+#EXTINF:-1,UK: Discovery Turbo +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_50KZRbAz9CJ1dLyxqX0gi/ts
+#EXTINF:-1,UK: Discovery Turbo
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-ljWTNmS3sQuo1_phc-ZW1/ts
+#EXTINF:-1,UK: Disney+ Premiere 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-wpZSkCnn_wN8TCNxLwMgB/ts
+#EXTINF:-1,UK: Disney+ Premiere 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xYudEWCwiaTwuE7DnxEEo/ts
+#EXTINF:-1,UK: Disney+ Series 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc83AkltxqiSDp62eYgDpmbI/ts
+#EXTINF:-1,UK: Disney+ Series 10 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8f6ONqGsmGsKZrW9ioSecS/ts
+#EXTINF:-1,UK: Disney+ Series 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9DVCP7yOgN3ADbZ-q6lh_I/ts
+#EXTINF:-1,UK: Disney+ Series 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8G-zKTyDL97IBmFCZHvrO-/ts
+#EXTINF:-1,UK: Disney+ Series 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_02kmf9SD8Rp_TX8dzSgAl/ts
+#EXTINF:-1,UK: Disney+ Series 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8rn2xMOfS6bxN6P4rwYk37/ts
+#EXTINF:-1,UK: Disney+ Series 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GKKjPFhn6JUYSAqaoRSkS/ts
+#EXTINF:-1,UK: Disney+ Series 7 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_e35sW0ZR61JQO6sgNZEme/ts
+#EXTINF:-1,UK: Disney+ Series 8 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8CrD2UVVFPQHsXweefGV4e/ts
+#EXTINF:-1,UK: Disney+ Series 9 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc97v2Og9KoRbQ2_zK0-UA3Y/ts
+#EXTINF:-1,UK: Disney+ Series info FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-xqIFKBh8YhGaglPQXEV_c/ts
+#EXTINF:-1,UK: Dunya News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-SZOaermSR_SK_CwTpuzM9/ts
+#EXTINF:-1,UK: Eden +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8TfHmHAfoLjwUbrVUGPP6S/ts
+#EXTINF:-1,UK: Eden
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc92Zb-29eMjMKKkx0XoRbtl/ts
+#EXTINF:-1,UK: Euronews
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_x-SoI9S8Lghwaw0EWDDdg/ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BBpPNq2UoU7o2H0Wt145u/ts
+#EXTINF:-1,UK: Eurosport 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8dxJl0zHyC6Sd0NOwj4XpO/ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9SmQJsJq_1kCTC_P8Wwl4I/ts
+#EXTINF:-1,UK: Eurosport 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9QbNhp3NFUBBu1j9AFESGu/ts
+#EXTINF:-1,UK: Faith World TV SD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-awKzkjWMfesl1cwavXQjB/ts
+#EXTINF:-1,UK: Film4 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc82paakeKsublb5VM3lxkNI/ts
+#EXTINF:-1,UK: Film4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_RSHsTQbTRNL0dd61DZfYC/ts
+#EXTINF:-1,UK: Forces TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KLZ68huoiyvNdny7_owC6/ts
+#EXTINF:-1,UK: France 24 English HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9sP9JQaK7CWapKmXoEZH4Q/ts
+#EXTINF:-1,UK: FreeSports FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-CC4zrNGsnwcaGPmD0k0dk/ts
+#EXTINF:-1,UK: GB News HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9L91tvd-C6jEqeKCKwA67y/ts
+#EXTINF:-1,UK: GINX eSports TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8CCbBPWj6qZ7FSEF81a5P0/ts
+#EXTINF:-1,UK: Good News TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ut60JQlIso54Pl4fsPGwR/ts
+#EXTINF:-1,UK: GREAT! action +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_f0gdQgv7S_UEugXITbI3E/ts
+#EXTINF:-1,UK: GREAT! action
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc946Rj5Rqht2_DCb36DKjV3/ts
+#EXTINF:-1,UK: GREAT! movies +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_AkLDk73arGvGTHfftti0K/ts
+#EXTINF:-1,UK: GREAT! romance +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ucSd5sOfO9zQDwlmyqwsk/ts
+#EXTINF:-1,UK: GREAT! romance
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9-CGPQSpxnDe2V15jNWml6/ts
+#EXTINF:-1,UK: GREAT! movies
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9X6gSdwGSeIBNGWFS1WMxI/ts
+#EXTINF:-1,UK: GREAT! tv
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8PJeXiQ4ymIebpPrl4T3DW/ts
+#EXTINF:-1,UK: GREAT! tv +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ocoxP2g2q1BEgmKSrNF_i/ts
+#EXTINF:-1,UK: High Street TV 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8UlirokymSf5AXeI2T8XxS/ts
+#EXTINF:-1,UK: High Street TV 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8awifgtvh73TjdfMQIRqsZ/ts
+#EXTINF:-1,UK: Sky History FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Wyvm6czRsfr_UKic6YOlO/ts
+#EXTINF:-1,UK: Sky History HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9o7Ec-QdN6aGTJNzcZWpQh/ts
+#EXTINF:-1,UK: Sky History
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8lfBMqdschrwEBSNIRvQ-l/ts
+#EXTINF:-1,UK: HorrorXtra +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-SuidPinZXpchQy-maEOuJ/ts
+#EXTINF:-1,UK: HorrorXtra
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc88M4RI3aYuEqpFNZhGpFM9/ts
+#EXTINF:-1,UK: Ideal World HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-4utz9tiulnnajup6BuROa/ts
+#EXTINF:-1,UK: Investigation Discovery +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8j9h4ma1CJE6Ozk7yQg-sU/ts
+#EXTINF:-1,UK: Investigation Discovery
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_e_Z7sD0RDDCghjUZXjBE4/ts
+#EXTINF:-1,UK: Kerrang!
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-QV7OlSdC09W1boUUld2Ix/ts
+#EXTINF:-1,UK: KICC TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-J19NZH036mKSmNep6_MOn/ts
+#EXTINF:-1,UK: KICC TV SD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cS_elEz1SFIjXpXav82d-/ts
+#EXTINF:-1,UK: KISS
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9VP_s9eJfG1k_nScYvC7pA/ts
+#EXTINF:-1,UK: Viaplay LaLigaTV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Pj6AP7QUqhT4LuPj856Vx/ts
+#EXTINF:-1,UK: LFC TV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_8ERqjWPZrn-tRm22EESWG/ts
+#EXTINF:-1,UK: LoveWorld FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9njj_pDQvJCmC41Rrvqy0L/ts
+#EXTINF:-1,UK: Magic
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc94Q4MQO1WFmm4Baunf_I25/ts
+#EXTINF:-1,UK: Movies 24
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-vf6cPjLXE3C8aWVBGS_P-/ts
+#EXTINF:-1,UK: Movies 24+
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_wfQDRoapdiNNi9xU-DFC2/ts
+#EXTINF:-1,UK: MTV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8CWf_bjWe0ZTuQpfX2kbTw/ts
+#EXTINF:-1,UK: MTV 80s
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9tqpUVCIpRZyEWEH4n4S9E/ts
+#EXTINF:-1,UK: MTV 90s
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9quWGHeIxEwlkG4ieNgThZ/ts
+#EXTINF:-1,UK: MTV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_-T0TESBBfOQJoX4VxRMTC/ts
+#EXTINF:-1,UK: MTV HITS
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8KB_ej2rzpn01LAeNpE3Mg/ts
+#EXTINF:-1,UK: MTV MUSIC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-higlNuRfhwcCSJJY2n566/ts
+#EXTINF:-1,UK: MUTV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc97uB80eixIb4MARloIctZ4/ts
+#EXTINF:-1,UK: Nat Geo Wild FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9M6gYDaI5ipBKbb5UEg3sX/ts
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-s8POgEw2w81s40uZ2CH4-/ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_-1yTZXYAE-0e4xKu9BmDT/ts
+#EXTINF:-1,UK: National Geographic +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc80l-LuBVwqdZ7BI3of1pjY/ts
+#EXTINF:-1,UK: National Geographic FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9dUezWfRJgyIO4g5Aim0jZ/ts
+#EXTINF:-1,UK: National Geographic HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc87D0tS2nuQWAHgmvbcFY0e/ts
+#EXTINF:-1,UK: National Geographic
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9mGhLMAG4S1iru1qqyqPhq/ts
+#EXTINF:-1,UK: NBC News Now
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8JOzg5i0pmCkYRJaivqJ7T/ts
+#EXTINF:-1,UK: NDTV 24x7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc__tRLN1sDx_2jU_wy3R8d8/ts
+#EXTINF:-1,UK: NHK World HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Vn_kHHbNvzUf4OeFjDec0/ts
+#EXTINF:-1,UK: Nick Jr. +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-r-JoKzGpJ0J4CCxljmzBU/ts
+#EXTINF:-1,UK: Nick Jr. Too
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-tMtP0jL_gekNDEdTpjyTM/ts
+#EXTINF:-1,UK: Nickelodeon +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Oo0RmwzrT3Jvp7yOycM5Q/ts
+#EXTINF:-1,UK: Nickelodeon FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8td9skOmtxZlhEBLTqgL3b/ts
+#EXTINF:-1,UK: Nickelodeon HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ZHyX4ZDDsFJwBpx84X8KR/ts
+#EXTINF:-1,UK: Nickelodeon
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc95Dg0yAu9rEOSd8mz1ipmO/ts
+#EXTINF:-1,UK: Nicktoons
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BwL4EZ4vxI_MbVesoufdF/ts
+#EXTINF:-1,UK: NOW 80s
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_CunV7oGrzcy2ZRZRlY1F5/ts
+#EXTINF:-1,UK: NOW ROCK
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8vm2MKAzFORLFQvM7BLxmn/ts
+#EXTINF:-1,UK: NTD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc87_Kn6uTDLiwYzfQ0uECGy/ts
+#EXTINF:-1,UK: Oireachtas TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Uemjj-vNTWW-uMAcGRRss/ts
+#EXTINF:-1,UK: Pick
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_v7LOOAUN35JKeZvpd7v3g/ts
+#EXTINF:-1,UK: POP
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8HJZ05_i6zZPS7XrZmL3Eq/ts
+#EXTINF:-1,UK: POP +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc837RnESLCc278gQLadyTCq/ts
+#EXTINF:-1,UK: POP Max
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Jbjqpu997tdz7GQIJ7J5V/ts
+#EXTINF:-1,UK: POP Max +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zxivtM43Bth6N4itRudOr/ts
+#EXTINF:-1,IE: Premier Sports 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GB_QyrMAbnEMWhzQmC4nA/ts
+#EXTINF:-1,IE: Premier Sports 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9o4NpFl1-kilKHPEAApk6p/ts
+#EXTINF:-1,IE: Premier Sports 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Z4Ka2a9fHIxNtgnOu0IY8/ts
+#EXTINF:-1,IE: Premier Sports 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9mInGc-8r9_1gl5QYxFlRD/ts
+#EXTINF:-1,IE: Premier Sports 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GRQqvXj8YLJkizAX5L1bv/ts
+#EXTINF:-1,IE: Premier Sports 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-ngmp2FP4F1UmXt-teJqRV/ts
+#EXTINF:-1,UK: QVC Extra
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc85Ky7lI41PzJVBeFXV6Uj2/ts
+#EXTINF:-1,UK: QVC HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8oLWdT91XuPIsyGejq-xXc/ts
+#EXTINF:-1,UK: QVC Style HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9YX0mP3EOxHt-MWqy0rPqr/ts
+#EXTINF:-1,UK: Racing TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8T6Oc09CalHGScFyO1wjqS/ts
+#EXTINF:-1,UK: Racing TV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc850v_8tcAQMRtlzz8HISro/ts
+#EXTINF:-1,UK: Reality Xtra
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_oHOtamq95ZTLDnpQFSKqn/ts
+#EXTINF:-1,UK: ROK
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Yei0jWhnTeHndQyXrMwVv/ts
+#EXTINF:-1,UK: RT
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ZuxI0WDoAPsl43fXvBCy8/ts
+#EXTINF:-1,UK: RT HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8FUKBJAyMltOckGUP3sbeX/ts
+#EXTINF:-1,UK: RTÉjr
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-AxwHe7R3JBTJCDxoIWw3K/ts
+#EXTINF:-1,UK: Sky Cinema Action FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-kFGKF5lhkSZFJJ7WDMm2M/ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_i2-6nGxduzq8kl5Sfrj1K/ts
+#EXTINF:-1,UK: Sky Cinema Action
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_t0zw1OhxzM5Ddd2Y6r4Iq/ts
+#EXTINF:-1,UK: Sky Cinema Animation FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_U0maNyTJOsbTtrbyJkDe0/ts
+#EXTINF:-1,UK: Sky Cinema Animation HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8nP5mIGdKakqaSoppXrjM0/ts
+#EXTINF:-1,UK: Sky Cinema Animation
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8hdi5l0qffVI-s8ymEoq4t/ts
+#EXTINF:-1,UK: Sky Cinema Comedy FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9lzOmmDUINBhOkI1FQCWpc/ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Xl__YOPYpOmE2CkEIL3Eh/ts
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc94RFkCs9qTQL4kmqG5Y5xR/ts
+#EXTINF:-1,UK: Sky Cinema Drama FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-bg0Db_NNWSYXLWOPQxd6R/ts
+#EXTINF:-1,UK: Sky Cinema Drama HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-NpTEE2fMwkwzdsp3XVeHU/ts
+#EXTINF:-1,UK: Sky Cinema Drama
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Z79qvkOFXOL94-FR99Vtl/ts
+#EXTINF:-1,UK: Sky Cinema Family FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-YBHxPe-opaLck9VamD_fz/ts
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-C6rk2ieMCnccNvNWY7MK0/ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_p6Ateu7swZct61rGW20xR/ts
+#EXTINF:-1,UK: Sky Cinema Greats FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8chuekPKVhIVvcq_2u9ROq/ts
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Y9EV7ut_2-gJeTW0YXDEC/ts
+#EXTINF:-1,UK: Sky Cinema Greats
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_yEa1fyVAdd1CV7HJjguTP/ts
+#EXTINF:-1,UK: Sky Cinema Hits FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-U4eOACKNgn2nkXytVYrNN/ts
+#EXTINF:-1,UK: Sky Cinema Hits HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-SDGNth4dD1goovOnYT8rX/ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_R__wZQu_VVeYdUXxaPGA2/ts
+#EXTINF:-1,UK: Sky Cinema Premiere +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8c12iSILO2jBb1Ny6t1xQ2/ts
+#EXTINF:-1,UK: Sky Cinema Premiere FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-2lRN4Nr0Ruh-HCRrWTS0X/ts
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8868EapU-eAfjY9CfBPEqt/ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Jtt-IxwS1D7rqiN_fNbQs/ts
+#EXTINF:-1,UK: Sky Cinema Sci Fi & Horror FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BvomMS9nDEO-P6R9kguEa/ts
+#EXTINF:-1,UK: Sky Cinema Sci Fi & Horror HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc84wN1lu-4mSO6Mem6mqwvB/ts
+#EXTINF:-1,UK: Sky Cinema Sci Fi & Horror
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9KZbdwRCEkHGOHcukDERW4/ts
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-v6eWMMACrsCmo8xUb6TR7/ts
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9smSgsr9BrNXASNWszK83b/ts
+#EXTINF:-1,UK: Sky Cinema Select
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9_XINHQ8EgkocNDHLjoJQn/ts
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9UPpiBmv1T5pnaijsxFCes/ts
+#EXTINF:-1,UK: Sky Cinema Thriller HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9WVd0QiPANIS7v3ob3gAXo/ts
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-R25vUm3I-Bj9uoj4DZDkS/ts
+#EXTINF:-1,UK: Sky Crime +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9r4TgI0ZmNOybOAW6oYxnQ/ts
+#EXTINF:-1,UK: Sky Crime FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_vpsEhgWTV_LNHQMgbz5nv/ts
+#EXTINF:-1,UK: Sky Crime HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-m4cr-TU8p2YJU1-z_3po_/ts
+#EXTINF:-1,UK: Sky Crime
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_kdszEO8YUPlCaHOg38e7V/ts
+#EXTINF:-1,UK: Sky Documentaries FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Ytvmd5Z6Ld-en_k4-YnI-/ts
+#EXTINF:-1,UK: Sky Documentaries HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xkVGmD7piG901NYsGS6aK/ts
+#EXTINF:-1,UK: Sky Documentaries
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8QUSBs-yw6uHhCzceeHlMP/ts
+#EXTINF:-1,UK: Sky History 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-3Ojrs5J6--NvtN8LoAmod/ts
+#EXTINF:-1,UK: Sky History 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8FF7NEdvjlw8p_ZPeH2E7K/ts
+#EXTINF:-1,UK: Sky History 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9isiCYmh0q2_-c5bBM2zMX/ts
+#EXTINF:-1,UK: Sky Kids FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-tjxXhL5qHz59jADfVfrA9/ts
+#EXTINF:-1,UK: Sky Kids HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8WaBxCtnJoK-fiOCzDkwoP/ts
+#EXTINF:-1,UK: Sky Kids
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GclsICNo45Qq0fJddDo6J/ts
+#EXTINF:-1,UK: Sky Nature FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8887RuYtdkEuKPWoTmwkyu/ts
+#EXTINF:-1,UK: Sky Nature HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8jXjB8Mw515__2Hcb9sglh/ts
+#EXTINF:-1,UK: Sky Nature
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8AvbLULncqWqt1j58v9jLK/ts
+#EXTINF:-1,UK: Sky News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Bj9ENF_X-m0nY_D5-zHsc/ts
+#EXTINF:-1,UK: Sky News HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-hbXTYHz5DBlLqMJvNjZ_b/ts
+#EXTINF:-1,UK: Sky Sports NFL
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc--C-BH0vrmKWq0kOgnY-Xh/ts
+#EXTINF:-1,UK: Sky Sports NFL FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc92IR1qQrKaFDoc2k0L3tOc/ts
+#EXTINF:-1,UK: Sky Sports NFL HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GlAMuBDnsswK7s0gfkoWV/ts
+#EXTINF:-1,UK: Sky Sports Arena
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_H5EOclW6siyD1KgScqLzJ/ts
+#EXTINF:-1,UK: Sky Sports Arena FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_AbIYfRrimcmTkh57oE5RB/ts
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Tl7MaX9rqWapFKOPkeJXr/ts
+#EXTINF:-1,UK: Sky Sports BOX Office / BT Sport Box Office (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8kzIgN4MbYdH-a2_RpLPXr/ts
+#EXTINF:-1,UK: Sky Sports BOX Office / BT Sport Box Office FHD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9F9pq4LrCO1gXrj3kzEzi0/ts
+#EXTINF:-1,UK: Sky Sports BOX Office / BT Sport Box Office HD (HEVC)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9G7AMw_qphdLQ23qxZVl6g/ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-lokpoRggslrfR62mT6u0V/ts
+#EXTINF:-1,UK: Sky Sports Cricket FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-E2Q5x8kE7KcpOnpOYYezz/ts
+#EXTINF:-1,UK: Sky Sports Cricket FHD (50 FPS)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9g1saNZBl8xo_ji5boBnOM/ts
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8NqWOFYJo9DMOuSxDdV4LY/ts
+#EXTINF:-1,UK: Sky Sports F1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gGkKzURKUtEq-7sq1q44V/ts
+#EXTINF:-1,UK: Sky Sports F1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9PacJnQ6YQ-QKT82JpPP0a/ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TFqd2ILmcL3tq0CWzBPmP/ts
+#EXTINF:-1,UK: Sky Sports Football
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zA-w2mlBzGxicOQ7dll6j/ts
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8zPjT0I4xgfD_fMfEIfM_J/ts
+#EXTINF:-1,UK: Sky Sports Football HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IOFcEZyg09vKCY7RTFfT8/ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zHp55gHSBuedecEeomVCk/ts
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9trO0u5QgY3K9ZT_LSpG9D/ts
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ncSOC1yG0gSb9AXWmgl7J/ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_wURg0ECyKkEJDsLntRi_5/ts
+#EXTINF:-1,UK: Sky Sports Main Event FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_9ApekPm9cifv_GVETx9ol/ts
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9QQ8gwA7RnQHznafwPB-Ap/ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8r8XnwNsL-wTpeTlwueb7x/ts
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-8G8HF_X_ofy6uA9ekiVs8/ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8WTU22R4q9I1VNxYKVmJkO/ts
+#EXTINF:-1,UK: Sky Sports News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BVbxmWpVIPJJW3JDgDfZJ/ts
+#EXTINF:-1,UK: Sky Sports News FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8CA9Zm0cEbWyhkS2pNQXjw/ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Qfj9RXN2wU3k6D9YmAtbc/ts
+#EXTINF:-1,UK: Sky Sports News SD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_uAMyFpKTZnxJDdEB0nL7I/ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ogpWOzZNjUJnPnU49PEmM/ts
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc88aBGylLV2YBEKfgMz-z4q/ts
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_aatEzsnnNu6mTA7kXXCXl/ts
+#EXTINF:-1,UK: Sky Sports Racing
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Vm7djsWe4CifWdmMy--yE/ts
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8txD6HPfg-rEzO0TDg7-dr/ts
+#EXTINF:-1,UK: Sky Sports Racing HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Ead34UcMrqMONYQIqzhp_/ts
+#EXTINF:-1,UK: Sky Sports Box Office FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_cSPMfVfnciUb9ggL-Pdx2/ts
+#EXTINF:-1,UK: Sky Sports Box Office HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-gp7Nt4PdVvUki28tcPybb/ts
+#EXTINF:-1,UK: Sky Sports Box Office
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-HXkHuMoVvgLZ6zEYCVSxo/ts
+#EXTINF:-1,UK: Sky Store info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_N65uVFHMvki16IpSqy9gR/ts
+#EXTINF:-1,UK: Sky Store Premiere 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8qw3fWwIB-zmQAyW3GhqvF/ts
+#EXTINF:-1,UK: Sky Store Premiere 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8-RqZ_5SclWOJLIPy2Gu1h/ts
+#EXTINF:-1,UK: Sky Store Premiere 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TmnfDIb4_JFPUkkeH-OIK/ts
+#EXTINF:-1,UK: Sky Store Premiere 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8pnTLR2ta5--pc38cze6kE/ts
+#EXTINF:-1,UK: Sky Store Premiere 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_4JnaBi8iMvoPfakImwqXe/ts
+#EXTINF:-1,UK: Sky Store Premiere 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Zzmqn-1OjsSr2QHAcPvVB/ts
+#EXTINF:-1,UK: Sky Store Premiere 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8FOfxQxS9R9v6jqVcTYA21/ts
+#EXTINF:-1,UK: Sky Store Premiere 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_lcdz2WApeCcdjcDkNmaa-/ts
+#EXTINF:-1,UK: Sky Store Premiere 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8IgpUCu6e3Vftj6U_xT8Fm/ts
+#EXTINF:-1,UK: Sky Store Premiere 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-SICnCYvNCMWjDSYajrUxk/ts
+#EXTINF:-1,UK: Sky Store Premiere 11 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8_mRiRSDJ_pjyihD_spWDh/ts
+#EXTINF:-1,UK: Sky Store Premiere 12 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc93r3kkcSbAgslAh9MVFg5Q/ts
+#EXTINF:-1,UK: Sky Store Premiere 13 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9fJ3_4aE_pIGH39CVaiZQh/ts
+#EXTINF:-1,UK: Sky Store Premiere 14 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-sdxFXM2CC1ZUoVKJedO6p/ts
+#EXTINF:-1,UK: Sky Store Premiere 15 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-JZMumzvEMPQZUaIzp664H/ts
+#EXTINF:-1,UK: Sky Store Premiere 16 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-INk5kXaYSb2FBxKPAIpDH/ts
+#EXTINF:-1,UK: Sky Store Premiere 17 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_bxFuOl1alAb3AiwVQLPY0/ts
+#EXTINF:-1,UK: Sky Store Premiere 18 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-_6cy5dwBTvi8ZfoggPIAd/ts
+#EXTINF:-1,UK: Sky Store Premiere 19 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9cPGqwLpcD72kP17e-M2OE/ts
+#EXTINF:-1,UK: Sky Store Premiere 20 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9tZwZyzKjoJ3hj_QhPfK8x/ts
+#EXTINF:-1,UK: Sky Store Premiere 21 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9uSt6grgPcrf-pjsgU7VVk/ts
+#EXTINF:-1,UK: Sky Store Premiere 22 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_SXvS-txaD5ZtaodRJlTeS/ts
+#EXTINF:-1,UK: Sky Store Premiere 23 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_3Ccn4eM4LyGmG6-e-XqSc/ts
+#EXTINF:-1,UK: Sky Store Premiere 24 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_JHXztBDU7tnyMMB_FVPJj/ts
+#EXTINF:-1,UK: Sky Store Premiere 25 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8UK3UjpuMrTa96HZXhEFap/ts
+#EXTINF:-1,UK: Sky Store Premiere 26 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_FSbpcGM1_l9mevPLvXXYC/ts
+#EXTINF:-1,UK: Sky Store Premiere 27 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IgMPNkHaYWPZBCZRZH5Qt/ts
+#EXTINF:-1,UK: Sky Store Premiere 28 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ufbhFxCpTr4GG9mMqooDS/ts
+#EXTINF:-1,UK: Sky Store Premiere 29 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9jYdsE1GTO4JCpS_6x1_2f/ts
+#EXTINF:-1,UK: Sky Store Premiere 30 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-_Bit99at_8i9TS9PzN1Im/ts
+#EXTINF:-1,UK: SportyStuff TV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9hBjhyfOFInDrKkl3RWF65/ts
+#EXTINF:-1,UK: Spotlight TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8OQrr9IX8yfuDg5higxA14/ts
+#EXTINF:-1,UK: Sky Sci-Fi FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-7qfHXj2E5dQnUlIq1blJh/ts
+#EXTINF:-1,UK: Sky Sci-Fi HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xG9DJmDmhqak_uDhsEYTh/ts
+#EXTINF:-1,UK: Sky Sci-Fi
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_wrlupagReuBEJkL3212Ul/ts
+#EXTINF:-1,UK: Talking Pictures
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Ar7LtTzDoK4Mx9lbSQpOf/ts
+#EXTINF:-1,UK: Thane
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9jH_Dxjk9PFWYPHK77KBAm/ts
+#EXTINF:-1,UK: The Box
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Jueud3YuEi6DtWSatbo7Q/ts
+#EXTINF:-1,UK: The Craft Store
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_3OU534cmVZZSQ6BUoDqVp/ts
+#EXTINF:-1,UK: The Word Network SD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8DJS56JFKD-5iPzO6HEJpQ/ts
+#EXTINF:-1,UK: Tiny Pop
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-N5rv1y2TAZekq2dVlPGEd/ts
+#EXTINF:-1,UK: Tiny Pop +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_obkWM14owq-LIMlgdPPig/ts
+#EXTINF:-1,UK: TJC Beauty
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8g8sdIMiY9TgEy7cCpkRMS/ts
+#EXTINF:-1,UK: TJC HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-2JBwm0Vmin0sD1V8cVGXu/ts
+#EXTINF:-1,UK: TNT Sports 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-KjRNN5SqtxleUtvYFemT7/ts
+#EXTINF:-1,UK: TNT Sports 1 FHD (50 FPS)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9U7cGOtihy0JxiauKx-G5F/ts
+#EXTINF:-1,UK: TNT Sports 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9SR5s-VJSh-Lj96-cC0_-K/ts
+#EXTINF:-1,UK: TNT Sports 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ToK2EkIAhdpAe4G2LFBQZ/ts
+#EXTINF:-1,UK: TNT Sports 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-cAKa6Ng3NMAFw0LMMexDp/ts
+#EXTINF:-1,UK: TNT Sports 2 FHD (50 FPS)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-kVVDjSeTDgvgj69eEfLby/ts
+#EXTINF:-1,UK: TNT Sports 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ui95bOpjtJBD7dENXYOMs/ts
+#EXTINF:-1,UK: TNT Sports 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-MY3aW16S0uJCGoj8nhYZu/ts
+#EXTINF:-1,UK: TNT Sports 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_WXTYLxMptG8CBrg6nO2VS/ts
+#EXTINF:-1,UK: TNT Sports 3 FHD (50 FPS)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-hxHLIsbBEj04JUV8d0d8n/ts
+#EXTINF:-1,UK: TNT Sports 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_VHLXu2E1T0ksWI7UBZ6by/ts
+#EXTINF:-1,UK: TNT Sports 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-cYPYY4waIfBJ9otXP69ZM/ts
+#EXTINF:-1,UK: TNT Sports 4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2kLgdQCMAG4Kw2ahkTvHW/ts
+#EXTINF:-1,UK: TNT Sports 4 FHD (50 FPS)
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ClX6NFb1CPeNJS7l0vLpO/ts
+#EXTINF:-1,UK: TNT Sports 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GmXWhkeuqX-KB4PQoEKSy/ts
+#EXTINF:-1,UK: TNT Sports 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_jyluLNf9fRx8ehSgPWsc-/ts
+#EXTINF:-1,UK: TNT Sports 5
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hpRKXuWIrPxe8LFUNiTUe/ts
+#EXTINF:-1,UK: TNT Sports 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc96N7fBSnftrZhGpa1nmdVa/ts
+#EXTINF:-1,UK: TNT Sports 6
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_B9qX0xdMzF23V5XbzE4i9/ts
+#EXTINF:-1,UK: TNT Sports 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-MRjD6Gk9VhOW2H7XjxyKQ/ts
+#EXTINF:-1,UK: TNT Sports 7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_wqZc_vSfi0iCrvVjQKJc-/ts
+#EXTINF:-1,UK: TNT Sports 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc84jgT1ulnlq3myHZuLSf46/ts
+#EXTINF:-1,UK: TNT Sports 8
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc94F3Rhq6AkSymrWC-O9GvV/ts
+#EXTINF:-1,UK: TNT Sports 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-fCziLezQqK28KwaiFAq0t/ts
+#EXTINF:-1,UK: TNT Sports 9
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8n9UNyscQZ0YUcgirkfhYn/ts
+#EXTINF:-1,UK: TNT Sports 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8yrcv1aE90iWhAsJpVSV2A/ts
+#EXTINF:-1,UK: TNT Sports 10
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GE2rgSjbsYAVOwSEZGVC5/ts
+#EXTINF:-1,UK: TNT Sports 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_95Eb7HkuxXphvNK-mN12v/ts
+#EXTINF:-1,UK: TNT Sports Box Office
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc85ATZnKmUbYrsTD6aKynYV/ts
+#EXTINF:-1,UK: TNT Sports Box Office FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Jh6ENdBEGdzB8I79nYsQi/ts
+#EXTINF:-1,UK: TNT Sports Box Office HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-WV0qT1XFSEtlir96_7Aup/ts
+#EXTINF:-1,UK: TNT Sports Ultimate 4k
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc85YGpPdryLF4WGPuiSmFmo/ts
+#EXTINF:-1,UK: TNT Sports Mosaic 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8jbYtxMvq1FA6gFvUMxKxV/ts
+#EXTINF:-1,UK: Trace Hits
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_YnjczN6Z2Oh1ACZBWE03c/ts
+#EXTINF:-1,UK: Trace Vault
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9NnCdkyk_zAhSjQEQ1Ue7Y/ts
+#EXTINF:-1,UK: Travelxp
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9oge-TwUTqRhqGD78Wakkp/ts
+#EXTINF:-1,UK: TRT World
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_OQjJuGGpbMg7O1AZxVMrE/ts
+#EXTINF:-1,UK: TRT World HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QZFoSHAMd82jGZLcNamIG/ts
+#EXTINF:-1,UK: TV Warehouse
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-2NsrmDm02Ipg4ml5AxUCy/ts
+#EXTINF:-1,UK: TVC News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8KB6y5Fr3YKoOHGYUzjeNr/ts
+#EXTINF:-1,UK: Viaplay Sports 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-P0kkkFutdkbvXPdKnnq_1/ts
+#EXTINF:-1,UK: Viaplay Sports 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-9S1CN6ptvy-eCmmo9wA3B/ts
+#EXTINF:-1,UK: W +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8aNdVkDrKlnkdjEz8vdX3b/ts
+#EXTINF:-1,UK: Yesterday +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TpNQM9rmyAt_-rWQqxPfF/ts
+#EXTINF:-1,UK: Yesterday
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-nFJvP0RbL-nhq99HW5wZi/ts
+#EXTINF:-1,UK: William Hill BTV 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8b64U-46oOtJG6m5HfV1Tt/ts
+#EXTINF:-1,UK: William Hill BTV 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_iZaiBvvB4CLHm8jeMxC9F/ts
+#EXTINF:-1,UK: William Hill BTV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8v8Eqz9ic-Xfdo-3sNvqYd/ts
+#EXTINF:-1,UK: SIS One
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_oDDyXUbN1DUaiTNX8gACr/ts
+#EXTINF:-1,UK: SIS Two
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_tZ1ViDasSo-C236aq36Tt/ts
+#EXTINF:-1,UK: SIS Racing
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ax1zvymj0OWQ-UISSL3Bk/ts
+#EXTINF:-1,UK: William Hill BTV 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ihlZpQ8AJdG37e0ntXzAO/ts
+#EXTINF:-1,UK: Coral TV 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8E58S0kGxhSvQB4p80ZveB/ts
+#EXTINF:-1,UK: Coral TV 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_cXoZFv5cfDztuSCzeEoEx/ts
+#EXTINF:-1,UK: Ladbrokes TV 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_lHZsRoRRNOEarvoZbfjxD/ts
+#EXTINF:-1,UK: Ladbrokes TV 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-iA3_PRksUe8tKj0s_h-p7/ts
+#EXTINF:-1,UK: Ladbrokes TV 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9GdsTGjFmG5rIklEw9QSEC/ts
+#EXTINF:-1,UK: Paddy Power TV 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2l6IU0ibR4sPHKfv9GiQs/ts
+#EXTINF:-1,UK: Paddy Power TV 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9-FH0J-YJrIcJJcWlpTBqG/ts
+#EXTINF:-1,UK: Paddy Power TV 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-dp4uLeNSqhq9z3Zj4IW4Y/ts
+#EXTINF:-1,UK: Racing.Com
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gLydHnkJOMc1aR45GswQg/ts
+#EXTINF:-1,UK: DAZN Event 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9oUISBhJrZJoohLYjCVsyu/ts
+#EXTINF:-1,UK: DAZN Event 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-VeZOO_sPuabid8SY7UPjs/ts
+#EXTINF:-1,UK: DAZN Event 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Bk6SIoJAdcq3I7k5yvac7/ts
+#EXTINF:-1,UK: DAZN Event 4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9s7luAVOG0tKPcPaHELroS/ts
+#EXTINF:-1,UK: DAZN Event 5
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8WIu2z_1u4u-ETmII5pWdc/ts
+#EXTINF:-1,UK: DAZN Event 6
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-neNjXrzfr2034tbDxFctZ/ts
+#EXTINF:-1,UK: DAZN Event 7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Euvmb1PW2IUuaNsngDrSF/ts
+#EXTINF:-1,UK: DAZN Red Bull TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_1O_qdymfdGHGpINlwWBfU/ts
+#EXTINF:-1,UK: ITVbe
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Bs78D04rFLfyEENpiL8_y/ts
+#EXTINF:-1,UK: CITV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9EKR2rKQNEeAvMTd5_-ryT/ts
+#EXTINF:-1,UK: ITV Signed
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8JQs_c3bxfNnrTqDGHuNMg/ts
+#EXTINF:-1,UK: ITV Classics
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9eXx5atWSXSeCfAz7DN5iH/ts
+#EXTINF:-1,UK: The Chase
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9LoZJKAqgwqB0gc1qSPONR/ts
+#EXTINF:-1,UK: Classic Comedy
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-LvprsratkpO3Nwb1jL-go/ts
+#EXTINF:-1,UK: Midsommer Murders
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_YRgC6ofVYNsn_k2BQ_j4W/ts
+#EXTINF:-1,UK: True Crime
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc82lczoWWx5EiA71LrOCz3T/ts
+#EXTINF:-1,UK: Classic Movies
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-QHn7dFPd6QL7AEfDCnOaX/ts
+#EXTINF:-1,UK: Out of This World
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-ifulf5Pw7KcwWeobc7brK/ts
+#EXTINF:-1,UK: Hells Kitchen
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8wzMO4NsgGV6NGwVczAREQ/ts
+#EXTINF:-1,UK: Saturday Night Every Night
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-NX8ITDYPkSskry-SeHrKO/ts
+#EXTINF:-1,UK: World of Morse
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-dkWvDUeJDRgD5Si8HpJO5/ts
+#EXTINF:-1,UK: Vera
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc89dMQvPFSuQI6MfKyhs_91/ts
+#EXTINF:-1,UK: Love Island International
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_fEMCLhpOjmTvGwNLYx_PJ/ts
+#EXTINF:-1,UK: The Only Way is Essex TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_rctTNw7QjaytQW_kiipQU/ts
+#EXTINF:-1,UK: Crime/Drama
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9MJNB7-Q1-eIgC3f1xY_CT/ts
+#EXTINF:-1,UK: The Real Housewives UK
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-_UBuhf-cl-OavV94-BQYv/ts
+#EXTINF:-1,UK: Love Island
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TpCf-K_SKaU-vmW2UHnv1/ts
+#EXTINF:-1,UK: Loved Up
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc85CPpnrMu4NMn73tEVJt47/ts
+#EXTINF:-1,UK: Christmas Movies
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_wd1rDP5EvGPumLy1K9K7R/ts
+#EXTINF:-1,IE: RTÉ One FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc88J0BbTo5XkUu5wnz_cjiU/ts
+#EXTINF:-1,IE: RTÉ2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8e5iyhRZc5d3JXRRjKL9bp/ts
+#EXTINF:-1,IE: RTÉ News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_nlKPGEaYXVXFofvzHuZPA/ts
+#EXTINF:-1,IE: RTÉ One +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Kj9EO_PK2uNArvuCHRYBN/ts
+#EXTINF:-1,IE: RTÉ 2 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ZKRI3qBB7aK-wEyv7nHv0/ts
+#EXTINF:-1,IE: TG4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Ud40QptFfTSClE1EH2b1r/ts
+#EXTINF:-1,IE: Virgin Media One FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9uB9TsuH9YwLMz5BQIlg6J/ts
+#EXTINF:-1,IE: Virgin Media Two FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9MtYwAi0t45QY9FXPahYhR/ts
+#EXTINF:-1,IE: Virgin Media Three HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QMhyq635PDu9MgnWbwdB2/ts
+#EXTINF:-1,IE: Virgin Media Sport HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-kBDubE8X9oHCCU41flLDM/ts
+#EXTINF:-1,IE: VM Sport Extra 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-aqucNjKO-5AwlH67r2jnu/ts
+#EXTINF:-1,IE: VM Sport Extra 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9GdPetdv4zysVKvkvJ3a22/ts
+#EXTINF:-1,IE: VM Sport Extra 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-P0iguZYp-IQgmDyvTbYFZ/ts
+#EXTINF:-1,IE: VM Sport Extra 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_gqhDIZaf_unKZroUn1Nge/ts
+#EXTINF:-1,IE: VM Sport Extra 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_q8k-MRWoHQ2gE_61W37xC/ts
+#EXTINF:-1,IE: VM Sport Extra 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-3WfKlNJWdOQCqJYiLGkHY/ts
+#EXTINF:-1,WF 00 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8sm05UGjEIsJxEJtEKoPqy/ts
+#EXTINF:-1,WF 01 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9BlxZIojmbhTXSIH5fbXDx/ts
+#EXTINF:-1,WF  02 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-G9nOAjiVbLrgIzLefgSTt/ts
+#EXTINF:-1,WF 03 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-ugUXzylWiteTllj7a9ZSS/ts
+#EXTINF:-1,WF 04 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8CZWCn5RGIyTQ0H66S8qIM/ts
+#EXTINF:-1,WF 05 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-g9hkJw5pf1mvlh9OHcHnc/ts
+#EXTINF:-1,WF 06 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc81lzTHeGo0HSe7dc_eGDHH/ts
+#EXTINF:-1,WF 07 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-5aI5wE0Ke-4x-hb42_feL/ts
+#EXTINF:-1,WF 08
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_BNrCgC72Ar-ZfM3YsTNMH/ts
+#EXTINF:-1,WF 09
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_TCkN1wci_wj9OwPn8Alju/ts
+#EXTINF:-1,WF 10
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9c4bac-q7TgLrgQTEi-Tjc/ts
+#EXTINF:-1,FA PLAYER 11 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GKAEKO9DOB8-qXqEChYY0/ts
+#EXTINF:-1,FA PLAYER 12 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Z309IIsgHzv1t936Dt_WE/ts
+#EXTINF:-1,FA PLAYER 13 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_3AQz1gr2VQBvsn2YIQ2AX/ts
+#EXTINF:-1,FA PLAYER: No Scheduled Event
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-oteSTxS69Njpm1mRZSsJg/ts
+#EXTINF:-1,FA PLAYER 15:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8a6zMqeQ1mooxb2eB29dSQ/ts
+#EXTINF:-1,FA PLAYER 16:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BRoFc8_RU36MBFbicC3pI/ts
+#EXTINF:-1,FA PLAYER 17:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cyTnZOCHmtlCq-BCf5rqr/ts
+#EXTINF:-1,FA PLAYER 18:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-mW8Sz-DEdvts73L4cdNTH/ts
+#EXTINF:-1,FA PLAYER 19:
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BkTXXMOThfoLD53XdmKUg/ts
+#EXTINF:-1,PPV 01 | SATURDAY PPV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_EgbSH6qtasTWOcS7b4b7W/ts
+#EXTINF:-1,PPV 02 | Memphis Wrestling, Episode 150: Milestone 17:00 SAT
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-niXxnykadUiO4o-j4TExf/ts
+#EXTINF:-1,PPV 03 | Silver Gloves: Regional Tournament Semi Finals 20:00 SAT
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Mv__uwJ8aVfW_-A0vloXh/ts
+#EXTINF:-1,PPV 04 | River City Promotions: The New Years Knockout Gala 00:00 SAT/SUN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_EuN9Ndu3_PS0tFDB6eu0D/ts
+#EXTINF:-1,PPV 05 | Elevation Professional Wrestling: New Years Rumble 00:00 SAT/SUN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_AvQDbRFwrVN6nkgcGK3mO/ts
+#EXTINF:-1,PPV 06 | MLW Kings of Colosseum 2024 01:00 SAT/SUN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8z6GBqED48oNP11aea_zlK/ts
+#EXTINF:-1,PPV 07 | 36th Annual Toughman Contest: Huntington, January 6th 00:00 SAT/SUN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-clGbncSy52ltza3EJ0nQ2/ts
+#EXTINF:-1,PPV 08 | Ortiz vs Lawson fight night 01:00 SAT/SUN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc831k-4Oo-FBZJPeD0nAVvS/ts
+#EXTINF:-1,PPV 09 | Ortiz vs Lawson fight night 01:00 SAT/SUN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-S9OIdrLk-B_yRJvH-iySH/ts
+#EXTINF:-1,PPV 10 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_WkrGbIcLaginFRnqh_HmT/ts
+#EXTINF:-1,PPV 11 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KBzZ3tGZCIJeHZ_2iTxmf/ts
+#EXTINF:-1,PPV 12 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Pww_S7JETXbOR8MQiEP8Y/ts
+#EXTINF:-1,PPV 13 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9F7KMG2tWZXC8kbadugkTI/ts
+#EXTINF:-1,PPV 14 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_gtaylcqz9xYcewe1huCzz/ts
+#EXTINF:-1,PPV 15 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9pOlZ1zFtmlRyRsm-fhO5a/ts
+#EXTINF:-1,PPV 16 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xUGACsQ_VvyNeobp5gFdc/ts
+#EXTINF:-1,PPV 17 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc95lPGiuxQUCcUmMJBEWGwp/ts
+#EXTINF:-1,PPV 18 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8TS00EBzpicoYVEiHw4a8T/ts
+#EXTINF:-1,PPV 19 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc83EbH632MMPKzw7p6NndX6/ts
+#EXTINF:-1,PPV 20 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_VAWtfydrsr4CYgLO1D0vY/ts
+#EXTINF:-1,PPV 21 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9c_wdZHFuiL0zrKID6a6nz/ts
+#EXTINF:-1,PPV 22 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8uy9Nxi6wybnW82BFe5FEr/ts
+#EXTINF:-1,PPV 23 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-rMfenfY1CCgkPLwR2Tlu2/ts
+#EXTINF:-1,PPV 24 |
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc95l0m8GDjsqWwRRYyWL6Mw/ts
+#EXTINF:-1,UK: Hulu Originals 19 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9vyM1n3Wf4MlPBujoTmtWB/ts
+#EXTINF:-1,UK: Hulu Originals 18 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8820rIK4qaB9LjPIJDy-2X/ts
+#EXTINF:-1,UK: Hulu Originals 17 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_5exQgtQHWEKNjDuUlDhI8/ts
+#EXTINF:-1,UK: Hulu Originals 16 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9QcpGFR6pvBUv_3wRGl0Sr/ts
+#EXTINF:-1,UK: Hulu Originals 15 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_qdWyliEJ9fUlD49fSyQ46/ts
+#EXTINF:-1,UK: Hulu Originals 14 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc95j7EvTd1tHz7o6gelMxmZ/ts
+#EXTINF:-1,UK: Hulu Originals 13 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8IjEeuDMWRFPKSn6buyiK4/ts
+#EXTINF:-1,UK: Hulu Originals 12 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8TiD-piNVZC6IwgDMPGL6k/ts
+#EXTINF:-1,UK: Hulu Originals 11 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9JBpgTwRvVnDukqTMDXzFO/ts
+#EXTINF:-1,UK: Hulu Originals 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8bvcgCtYYu-qVnpL_s-4PS/ts
+#EXTINF:-1,UK: Hulu Originals 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2_bZnu2wMTESF6xynUcg8/ts
+#EXTINF:-1,UK: Hulu Originals 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8whruWq893MujJ-w8n9v76/ts
+#EXTINF:-1,UK: Hulu Originals 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8mbvGjMerG1ALqPBVuXko5/ts
+#EXTINF:-1,UK: Hulu Originals 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_CsWDCNKUGUNobcr4nGjUy/ts
+#EXTINF:-1,UK: Hulu Originals 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9AKtaQsQ8dne_HN-Q4TTZn/ts
+#EXTINF:-1,UK: Hulu Originals 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc94-gkEsPyfMPiXx6_ZbuDe/ts
+#EXTINF:-1,UK: Hulu Originals 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9nLYZlATlO4ByuEtoCUOQN/ts
+#EXTINF:-1,UK: Hulu Originals 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_p-CeOXAOG6GE2M2GKF-Zm/ts
+#EXTINF:-1,UK: Hulu Originals 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Si5xrRGBkGtCqYD9MXhyG/ts
+#EXTINF:-1,UK: Hulu Originals info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc809TlhtAOKiHKvF9tL-Q7-/ts
+#EXTINF:-1,UK: HBO Max Originals 17 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8u4TL1D3mP40VzJD-FUXLJ/ts
+#EXTINF:-1,UK: HBO Max Originals 16 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8sjijEhzw0t2WPnSdSIlOQ/ts
+#EXTINF:-1,UK: HBO Max Originals 15 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8SQpMp-yJKue1LtWk3Cyo5/ts
+#EXTINF:-1,UK: HBO Max Originals 14 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8g9aja8rrIlLUzIKBtaJN9/ts
+#EXTINF:-1,UK: HBO Max Originals 13 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-aP0W4E9HJm5nbg2nrM7ev/ts
+#EXTINF:-1,UK: HBO Max Originals 12 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8oRuzcb4x56O5hGq3ygP2U/ts
+#EXTINF:-1,UK: HBO Max Originals 11 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-QHqEHv87a-WxNZzOxZkOc/ts
+#EXTINF:-1,UK: HBO Max Originals 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8H3zl1I-yv-mzWEWjmVut1/ts
+#EXTINF:-1,UK: HBO Max Originals 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8x6TT8QB8v2ltkdN9bDowS/ts
+#EXTINF:-1,UK: HBO Max Originals 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8m9smDHwTw55YLy6sGCdWr/ts
+#EXTINF:-1,UK: HBO Max Originals 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-KdD98VmrDTtYveozOc58a/ts
+#EXTINF:-1,UK: HBO Max Originals 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8SPlKVX8kIQhJraY6fzI6s/ts
+#EXTINF:-1,UK: HBO Max Originals 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8yRBi18lwx-9b3ORawr_x_/ts
+#EXTINF:-1,UK: HBO Max Originals 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8HeaJIWzIgNL10sjg_fs0m/ts
+#EXTINF:-1,UK: HBO Max Originals 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GPNC939BPWQo8hUu6v8bM/ts
+#EXTINF:-1,UK: HBO Max Originals 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_WH8ZgI7G39uzSyBq7aUdf/ts
+#EXTINF:-1,UK: HBO Max Originals 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2SAkQNs_5K9MuNwb4C2Fm/ts
+#EXTINF:-1,UK: HBO Max Originals info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_naJJr0q2fSO_9hYYfvi5L/ts
+#EXTINF:-1,UK: PrimeVideo Serie 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-qBHYvuWs-9l-tbF4C7pvt/ts
+#EXTINF:-1,UK: PrimeVideo Serie 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-D_8gJgo2WYLGzbmDn-oDa/ts
+#EXTINF:-1,UK: PrimeVideo Serie 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-L6jp6ZcpwMSgcr0yH1gCV/ts
+#EXTINF:-1,UK: PrimeVideo Serie 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8DOsrkgMpwROChdR_kWMty/ts
+#EXTINF:-1,UK: PrimeVideo Serie 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8sANloDv6Xj8RduTUYb2uC/ts
+#EXTINF:-1,UK: PrimeVideo Serie 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8N5_qqL42IqIRBtnK9ik1x/ts
+#EXTINF:-1,UK: PrimeVideo Serie 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8uNAq-7b_K5WHT4dLfGgcU/ts
+#EXTINF:-1,UK: PrimeVideo Serie 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8QImzlQqAteH1AMvqxu4Q1/ts
+#EXTINF:-1,UK: PrimeVideo Serie 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8xgM6nmJityS_SKWGzCnlp/ts
+#EXTINF:-1,UK: PrimeVideo Serie 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-XfTNxjABnhFB58Q34yJ9Y/ts
+#EXTINF:-1,UK: PrimeVideo Serie info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8UsHcuTqahv36L0d9-G6R2/ts
+#EXTINF:-1,UK: AMC+ Originals 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8RkbVi1gizypODrpbykZF2/ts
+#EXTINF:-1,UK: AMC+ Originals 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8VCaJzvhTHacj1i1xOLDOf/ts
+#EXTINF:-1,UK: AMC+ Originals 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc96ijHngZwhYUYrFd9EuQ_H/ts
+#EXTINF:-1,UK: AMC+ Originals 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_nMWbT5aGpZiNa14Yz1BS6/ts
+#EXTINF:-1,UK: AMC+ Originals 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8IWCcSgz_B1G_O_78WMne8/ts
+#EXTINF:-1,UK: AMC+ Originals 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8-m6Xqk0dbDGNBhj-XQPRY/ts
+#EXTINF:-1,UK: AMC+ Originals 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9yWfTeocz2XtWEAHH3Bg_C/ts
+#EXTINF:-1,UK: AMC+ Originals 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-CUNHofcap52QQ1Xe9BF0n/ts
+#EXTINF:-1,UK: AMC+ Originals 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_y496n-K4lCZQ5LrqbIvlj/ts
+#EXTINF:-1,UK: AMC+ Originals info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_-nq7AwD42mwyjjIMiN1gR/ts
+#EXTINF:-1,UK: EPL Replay 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_PM6xDe96BYnK73bEfSgKS/ts
+#EXTINF:-1,UK: EPL Replay 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9OtJEmq7RLY3JyOdiMt6Dd/ts
+#EXTINF:-1,UK: EPL Replay 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TXijSHqCW1IkodMXLEv3s/ts
+#EXTINF:-1,UK: EPL Replay 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-sC1ZggVH9DRuURSGXJ8Pw/ts
+#EXTINF:-1,UK: EPL Replay 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_upUYs27jKuIJ4SG1cfkH6/ts
+#EXTINF:-1,UK: EPL Replay 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_taL3dp3VP9eCwKQc8H-yJ/ts
+#EXTINF:-1,UK: EPL Replay 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_qkjRu22pFrICyCcEhOibM/ts
+#EXTINF:-1,UK: EPL Replay 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8V84CwFwU0MU9qOtQ2tyz5/ts
+#EXTINF:-1,UK: EPL Replay 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_JmJx9Alqug0vSvlxA6mO9/ts
+#EXTINF:-1,UK: EPL Replay 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_JbE5zB7lwYqO_3RO4Xgwe/ts
+#EXTINF:-1,UK: EPL HighLights HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_jdfE9WLImviDPwWZLUge9/ts
+#EXTINF:-1,UK: EPL Replay info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-rVD9CLVDGX_ObiJgRg_Mq/ts
+#EXTINF:-1,UK: Peacock Original info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc90hPQ-cxVpeqfa5lFpRHsH/ts
+#EXTINF:-1,UK: Peacock Original 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_FPdfExO3D0uX2IEHHpzx1/ts
+#EXTINF:-1,UK: Peacock Original 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ZU0dlZRYlbuoQMDhKRzft/ts
+#EXTINF:-1,UK: Peacock Original 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Bz__GPp2OJdc4leiYYDo3/ts
+#EXTINF:-1,UK: Peacock Original 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BTIKIVOb6E37fCfIntwp7/ts
+#EXTINF:-1,UK: Peacock Original 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8pfV_6XccP0gmxVQY6DgVX/ts
+#EXTINF:-1,UK: Peacock Original 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9MG-yGdnc1mpr_eUQxsKcq/ts
+#EXTINF:-1,UK: Peacock Original 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-eSHUEBwJiOLTjlNpYzotX/ts
+#EXTINF:-1,UK: Peacock Original 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-d-alg15ybWdrKPEVVPfBP/ts
+#EXTINF:-1,UK: Peacock Original 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9F7l76-ArpHk3sTMDNMa19/ts
+#EXTINF:-1,UK: Peacock Original 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Em0MdrdDD_K7MRofVGxcF/ts
+#EXTINF:-1,UK: Peacock Original 11 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc91bSfk69V7I40BFx9ZHclw/ts
+#EXTINF:-1,UK: Peacock Original 12 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9RoFTzlPV5rqIqWAkFajgI/ts
+#EXTINF:-1,UK: Discovery+ Originals info HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc82KcLsLkqUpptSW4yssZi4/ts
+#EXTINF:-1,UK: Discovery+ Originals 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc--rbFhP1d_MKboCTrlNNlV/ts
+#EXTINF:-1,UK: Discovery+ Originals 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc86Q_fyR1CuztzuUIXxKCZ3/ts
+#EXTINF:-1,UK: Discovery+ Originals 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9YCTYtmAMVp5OBKD06NmqA/ts
+#EXTINF:-1,UK: Discovery+ Originals 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8tJ-dLCYxoDNjRzcyoP8iI/ts
+#EXTINF:-1,UK: Discovery+ Originals 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_TjRcc6Ey4P2APGfxj8GHG/ts
+#EXTINF:-1,UK: Discovery+ Originals 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9DfzD5wS2xQd4KmagIH7BK/ts
+#EXTINF:-1,UK: Discovery+ Originals 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9kQnwOKorSqODUCv4RrjHy/ts
+#EXTINF:-1,UK: Discovery+ Originals 8 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-ShQO6fFUwUKyuHVygj6ya/ts
+#EXTINF:-1,UK: Discovery+ Originals 9 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_VQxCUJkhphMY_brCg6YVN/ts
+#EXTINF:-1,UK: Discovery+ Originals 10 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8MdnYYHmtaWWYHMJcWzhn_/ts
+#EXTINF:-1,UK: Sky Mix HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-bRl5lrglUsP7POKvSjfcI/ts
+#EXTINF:-1,UK: Sky Mix
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hYGY6UMNaUW1MIxWaj3gd/ts
+#EXTINF:-1,UK: Sky Mix FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_TQr0KmT5tExIQL0mgBw6a/ts
+#EXTINF:-1,UK: DAZN Combat HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-w_lusGJtmmd7S3bnLb_mn/ts
+#EXTINF:-1,UK: Viaplay Xtra FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-0y9CPmie9LIJ0tU2-uS7t/ts
+#EXTINF:-1,UK: Horse & Country FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6QPQ02hGSIgyVnRotl2yj/ts
+#EXTINF:-1,UK: Tennis Channel HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_4aaMs1WEXmMR0jy77uKlE/ts
+#EXTINF:-1,UK: EDGEsport FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xKlk1sX6UAhtL68qt_kWB/ts
+#EXTINF:-1,UK: Netflix Premiere info FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-x8j3PfeOTgM2kC-kWlTc-/ts
+#EXTINF:-1,UK: Netflix Premiere 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_b-vsfZw3lBvI10XLOuz1A/ts
+#EXTINF:-1,UK: Netflix Premiere 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-UtO5YlguOvFtsqHE6tcfJ/ts
+#EXTINF:-1,UK: Netflix Premiere 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_VG_3y3NXt33PietVyp2uD/ts
+#EXTINF:-1,UK: Netflix Premiere 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TVebA2H50ahWWHzykHZ5F/ts
+#EXTINF:-1,UK: Netflix Premiere 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8WvxOXZmEP234OqN95XSfg/ts
+#EXTINF:-1,UK: Netflix Premiere 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9kWBxd5e4Unc27f23Yqq6Y/ts
+#EXTINF:-1,UK: Netflix Premiere 7 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ze7j7EJWXA1RIMyuwD0pG/ts
+#EXTINF:-1,UK: Netflix Premiere 8 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Atnt-ltR8wbPlgv11z0DJ/ts
+#EXTINF:-1,UK: Netflix Premiere 9 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_DlK_eR__7Wxm5RrPfslDu/ts
+#EXTINF:-1,UK: Netflix Premiere 10 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc99hR29eEuROJd1yRw2llI9/ts
+#EXTINF:-1,UK: Netflix Premiere 11 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-muO-TjEI6gCeUQCNucqxp/ts
+#EXTINF:-1,UK: Netflix Premiere 12 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8qZ1Qy0wpEVM_HijmusxCA/ts
+#EXTINF:-1,UK: Netflix Premiere 13 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ZNaMfx2uB-wNqvI609mH-/ts
+#EXTINF:-1,UK: Netflix Series 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8-NodZtxZ-mR9IMqM0b1wx/ts
+#EXTINF:-1,UK: Netflix Series 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9B7k2B84KSce1xD2nlGekX/ts
+#EXTINF:-1,UK: Netflix Series 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8d65xPanlP1XLjYX6Da8ob/ts
+#EXTINF:-1,UK: Netflix Series 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_WvHYelV41N1SRMwWy5vJE/ts
+#EXTINF:-1,UK: Netflix Series 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_l0WssVCYXWnBwPJea8Mwr/ts
+#EXTINF:-1,UK: Netflix Series 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Eiehng8jEu35AyChx8vy1/ts
+#EXTINF:-1,UK: Netflix Series 7 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_5guw_1534_RXdwv7xLAEv/ts
+#EXTINF:-1,UK: Netflix Series 8 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9UMP7v-uRbwnBCGGM0Rcrc/ts
+#EXTINF:-1,UK: Netflix Series 9 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-NwT7FAkUefB73gtjMn1IC/ts
+#EXTINF:-1,UK: Netflix Series 10 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8T6lsmQBXMoLzYEQhjg3dX/ts
+#EXTINF:-1,UK: Netflix Series info FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_sT55nfiMuPCqSc1FP6QIl/ts
+#EXTINF:-1,UK: Home Alone FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BOn_Z0p12z2iic2C45Xnq/ts
+#EXTINF:-1,UK: Xmas 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QJXENFqaispQ2FWh0xImL/ts
+#EXTINF:-1,UK: Xmas 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8MoGKcrpvpTdCMhi07Xxfl/ts
+#EXTINF:-1,UK: Xmas 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-d1THx497ARViQYO41zbVI/ts
+#EXTINF:-1,UK: Xmas-Premiere 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_pGDMlXo0vSEzIyIa0t7sz/ts
+#EXTINF:-1,UK: Xmas-Premiere 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ONFuk7qf8iD970Dk1pMix/ts
+#EXTINF:-1,UK: Xmas-Premiere 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8WD-pU_ApcIlQ6aFmpsewy/ts
+#EXTINF:-1,UK: Xmas-Premiere 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-ydZfyR7Enpk2_PpuUWMvo/ts
+#EXTINF:-1,UK: Xmas-Premiere 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8vb801IWsB4gkY8iMhoagv/ts
+#EXTINF:-1,UK: Xmas-Premiere 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_-yIYmkJbvlY-fXWrEKkzw/ts
+#EXTINF:-1,UK: Xmas-Kids 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hmGYSh1SGf1Lr2zOyEDXm/ts
+#EXTINF:-1,UK: Xmas-Kids 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc86bk1L0eRRIakFUKVWDKE0/ts
+#EXTINF:-1,UK: Xmas-Junior FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8uJLKUgOAbBSXEaQKluDUv/ts
+#EXTINF:-1,UK: Xmas-Show FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-j4rSBwnhwjgj8LZeIYdOF/ts
+#EXTINF:-1,UK: Xmas-Channel FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-_h_zVpLyfqMWJ6JuT5-mw/ts
+#EXTINF:-1,UK: Xmas-Music 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8DRkTv_eToqfJD8CFWGS6t/ts
+#EXTINF:-1,UK: Xmas-Music 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_gq4HxgoGMVAoHDClfEQaA/ts
+#EXTINF:-1,UK: Ambient 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xnIQJSi6wNsIvakm7d0ry/ts
+#EXTINF:-1,UK: Ambient 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9WsPDHkDe8dKrOMwfNVK4a/ts
+#EXTINF:-1,UK: Ambient 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9j8QDR8yPnAJshrSz5q--W/ts
+#EXTINF:-1,UK: Ambient 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_v5RIIeII1mqi7DWNFc3gV/ts
+#EXTINF:-1,UK: Ambient 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9odNZHeIaQWgDAl1AHQM0W/ts
+#EXTINF:-1,UK: Atmosphere 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9j5MdCR0iqqcRFlmeeRtj1/ts
+#EXTINF:-1,UK: Atmosphere 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_dO7CX72_e6ba3gmpJpm1B/ts
+#EXTINF:-1,UK: Atmosphere 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc99BLZZp9ZOYZRhxbWsUD4S/ts
+#EXTINF:-1,UK: Atmosphere 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_TBppZwrGBSZvTzsI_TL3Q/ts
+#EXTINF:-1,Matchroom Event 00: The Masters - Day 3 | Alexandra Palace | snooker | Tue 09 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ouQMJmRFXc1OkKYPPKSvx/ts
+#EXTINF:-1,Matchroom Event 01: The Masters - Day 4 | Alexandra Palace | snooker | Wed 10 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_1Xh3WaA4ceCsIXTixcSu3/ts
+#EXTINF:-1,Matchroom Event 02: The Masters - Day 5 | Alexandra Palace | snooker | Thu 11 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GwaeEK65rHoTUjIJiVwXN/ts
+#EXTINF:-1,Matchroom Event 03: The Masters - Day 6 | Alexandra Palace | snooker | Fri 12 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-lDqqLWerrxWyhl_of5R58/ts
+#EXTINF:-1,Matchroom Event 04: The Masters - Day 7 | Alexandra Palace | snooker | Sat 13 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8-Py869pKrQ_9Ms0vwMJv5/ts
+#EXTINF:-1,Matchroom Event 05: The Masters - Day 8 | Alexandra Palace | snooker | Sun 14 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_GGUNl9JsbpmD2SwFWkdtA/ts
+#EXTINF:-1,Matchroom Event 06: World Grand Prix - Day 1 - Table 2 | Morningside Arena, Leicester | snooker | Mon 15 Jan 7:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc881WM3L9ShnQDMumKaEuDF/ts
+#EXTINF:-1,Matchroom Event 07: World Grand Prix - Day 1 - Table 1 | Morningside Arena, Leicester | snooker | Mon 15 Jan 7:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KFibC0Af6zM9MuoqxSABM/ts
+#EXTINF:-1,Matchroom Event 08: World Grand Prix - Day 2 - Table 2 | Morningside Arena, Leicester | snooker | Tue 16 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Xul5CeXeatfwVQ8V8e0p1/ts
+#EXTINF:-1,Matchroom Event 09: World Grand Prix - Day 2 - Table 1 | Morningside Arena, Leicester | snooker | Tue 16 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_v830XcINZMQbp-cuCplfz/ts
+#EXTINF:-1,Matchroom Event 10: World Grand Prix - Day 3 - Table 1 | Morningside Arena, Leicester | snooker | Wed 17 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IvPvLg9MbvxYyVMri0OIh/ts
+#EXTINF:-1,Matchroom Event 11: World Grand Prix - Day 3 - Table 2 | Morningside Arena, Leicester | snooker | Wed 17 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ikjC5ihfoltMm0JZ9QVh2/ts
+#EXTINF:-1,Matchroom Event 12: World Grand Prix - Day 4 - Table 2 | Morningside Arena, Leicester | snooker | Thu 18 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9zRayH55R7Qwc3liq5CP5c/ts
+#EXTINF:-1,Matchroom Event 13: World Grand Prix- Day 4 - Table 1 | Morningside Arena, Leicester | snooker | Thu 18 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_n3ga9cbEGnk0sEvIQeVjp/ts
+#EXTINF:-1,Matchroom Event 14: World Grand Prix - Day 5 - Table 2 | Morningside Arena, Leicester | snooker | Fri 19 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Nw_DGNk6J0GoRD0nyIqRC/ts
+#EXTINF:-1,Matchroom Event 15: World Grand Prix - Day 5 - Table 1 | Morningside Arena, Leicester | snooker | Fri 19 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_oU5DsSfMeTB94DR3D3Tt7/ts
+#EXTINF:-1,Matchroom Event 16: World Grand Prix - Day 6 - Table 1 | Morningside Arena, Leicester | snooker | Sat 20 Jan 7:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-1fwCAmP0z53CB2f1Ir0Mi/ts
+#EXTINF:-1,Matchroom Event 17: World Grand Prix - Day 6 - Table 2 | Morningside Arena, Leicester | snooker | Sat 20 Jan 7:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8eE4BrsGtIrJk4Fa3NHnIZ/ts
+#EXTINF:-1,Matchroom Event 18: World Grand Prix - Day 7 - Table 2 | Morningside Arena, Leicester | snooker | Sun 21 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_US4cmJLZu6Jyl5uMKtzj0/ts
+#EXTINF:-1,Matchroom Event 19: World Grand Prix - Day 7 - Table 1 | Morningside Arena, Leicester | snooker | Sun 21 Jan 1:00:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-cGdp8uhKKEAoMC0BTSqHD/ts
+#EXTINF:-1,Matchroom Event 20: BetVictor Welsh Open Qualifiers - Day 1 | Barnsley Metrodome | snooker | Mon 22 Jan 10:00:00 AM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-dS4TJrp6RpbBUshCayuxG/ts
+#EXTINF:-1,Matchroom Event 21: BetVictor Welsh Open Qualifiers - Day 2 | Barnsley Metrodome | snooker | Tue 23 Jan 10:00:00 AM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8hhEmSB4xZiTVNMWZd7a00/ts
+#EXTINF:-1,Matchroom Event 22: BetVictor Welsh Open Qualifiers - Day 3 | Barnsley Metrodome | snooker | Wed 24 Jan 10:00:00 AM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9bLtl_7qBbIXo5Oxo7mWUH/ts
+#EXTINF:-1,Matchroom Event 23: BetVictor German Masters - Day 1 | Tempodrom, Berlin | snooker | Mon 29 Jan 1:30:00 PM 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Oo5WVGcFJECWSeHy_dmVe/ts
+#EXTINF:-1,Matchroom Event 24 | No Event Scheduled
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-nvINE3vNfE1n--GZ9p0OO/ts
+#EXTINF:-1,Ultimate Pool | Event 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DUK1EXotEGSX6XdeRBSKc/ts
+#EXTINF:-1,Ultimate Pool | Event 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8u3JeRbMV3GrPJZJim-B81/ts
+#EXTINF:-1,Ultimate Pool | Event 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Ihv3RmT7W6xAFQxsdg0ym/ts
+#EXTINF:-1,Ultimate Pool | Event 4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KEzF_k1LN7_rWlp2CV2C9/ts
+#EXTINF:-1,Ultimate Pool | Event 5
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_dIXjsgaowYZfIpNPElekt/ts
+#EXTINF:-1,Ultimate Pool | Event 6
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8BfbvhCTBwUF4yuudIEdaT/ts
+#EXTINF:-1,UK: Viaplay Sports 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8_8jmNWEDsR6VrGHO1CwWs/ts
+#EXTINF:-1,UK: Viaplay Sports 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-tZXTgkaU3B_8Dt7cWr1s-/ts
+#EXTINF:-1,UK: Viaplay Sports 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8aLlNby1K80FFoumPDgoFG/ts
+#EXTINF:-1,UK: Viaplay Sports 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-JI1fQ49I8CJAoZd92abUg/ts
+#EXTINF:-1,UK: CBeebies FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-MJ0lvbYKWRufsfOVDV5hi/ts
+#EXTINF:-1,UK: Eden HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-uYw5372C_TEb6aoMhZP1s/ts
+#EXTINF:-1,UK: Eurosport 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8S9YObl-4C4asgMTaYI5W4/ts
+#EXTINF:-1,UK: Eurosport 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-o1PERTeIHoCM0tzyEYRZv/ts
+#EXTINF:-1,UK: Film4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8-XKhinnDSBVDsFCstMHzn/ts
+#EXTINF:-1,UK: Film4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Rn489a1eox3Y0uJoce5ey/ts
+#EXTINF:-1,UK: HGTV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9PYPA_PkFXRyKxjVAw7r1U/ts
+#EXTINF:-1,UK: MTV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-LYQlU2FMmUjgniG6KuVvw/ts
+#EXTINF:-1,UK: nickSpongeBob HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9qe_5BV1iSROgRGGuvkG0m/ts
+#EXTINF:-1,UK: Cartoonito HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8VZ98LQsV_IYt0laydIaPX/ts
+#EXTINF:-1,UK: BBC Red Button 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9VIkxvtXCGxfkRqjxj89Lj/ts
+#EXTINF:-1,UK: BBC Red Button 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_EGyztCwdClbWX5mqoBp_Y/ts
+#EXTINF:-1,UK: BBC Red Button 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8hX0TRv8jvyWrK3Kx_eJpl/ts
+#EXTINF:-1,UK: BBC Red Button 4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9uONwR2UD6AUx2gbvnh2Jn/ts
+#EXTINF:-1,UK: BBC Red Button 5
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9h_UflK2thr-JFSCNu8-FK/ts
+#EXTINF:-1,UK: BBC Red Button 6
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_26HT2wf76T5s5hZpSl7Nd/ts
+#EXTINF:-1,UK: BBC Red Button 7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_SzTnSRXhTPPDPgqMKWx2j/ts
+#EXTINF:-1,UK: BBC Red Button 8
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ULjU1U2h_fkgq72vh8uJF/ts
+#EXTINF:-1,UK: BBC Red Button 9
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc97E3YNWtVssgZAT5arvPxo/ts
+#EXTINF:-1,UK: BBC Red Button 10
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KtNbvWBHIjBPCJL6bbPjX/ts
+#EXTINF:-1,UK: BBC Red Button 11
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_v-Zo0lSRfJDQQACzo42V-/ts
+#EXTINF:-1,UK: UFC Fight Pass FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_SwDqYkgFAGWR8VlsdWmyh/ts
+#EXTINF:-1,UK: BBC One FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9vHhlp-4LuB_jZ-QufbmKn/ts
+#EXTINF:-1,UK: BBC One HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_DAd63VLMNtxlKNFWJHvBr/ts
+#EXTINF:-1,UK: BBC One
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Zsb_5KpwPel4RAAFmlYFi/ts
+#EXTINF:-1,UK: BBC Two FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_M2gPzmfK9GJSUldMxG9ny/ts
+#EXTINF:-1,UK: BBC Two HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8MlCOTHq0bu6WasrbyNOzh/ts
+#EXTINF:-1,UK: BBC Two
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Smh5KzvIt6UsZytNdF83L/ts
+#EXTINF:-1,UK: BBC Three FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_LDQUwHxdzviHAhBHApR5e/ts
+#EXTINF:-1,UK: BBC Three HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_yLKBcUb9GXmNo9fqIB4QA/ts
+#EXTINF:-1,UK: ITV1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_V8MotNoc2hJlriA502Sla/ts
+#EXTINF:-1,UK: ITV1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_M3rDbxWngwPrKlfr1xMOJ/ts
+#EXTINF:-1,UK: ITV1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_WChkzB-cdMKp-7elN2d71/ts
+#EXTINF:-1,UK: ITV1 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc89KuNZeau9jnXPsWWKMyPK/ts
+#EXTINF:-1,UK: Channel 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-SIl8CVH7VD8A-SQ86VDHs/ts
+#EXTINF:-1,UK: Channel 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc87kKVhC0Au4HjkhYLqk_ro/ts
+#EXTINF:-1,UK: Channel 4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ok0aGM_E1uy34m0K-NDX6/ts
+#EXTINF:-1,UK: Channel 4 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DP2Pf_sUCbW_z_-Vv3CtA/ts
+#EXTINF:-1,UK: Channel 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ymIcM2UN4hmrwZbInqx7W/ts
+#EXTINF:-1,UK: Channel 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-at0jRSPyeq2a6xRampfWt/ts
+#EXTINF:-1,UK: Channel 5
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8bixeKIzm-4fbdBm9j0SlL/ts
+#EXTINF:-1,UK: Channel 5 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-XFxzMhek63x8eXzahnNde/ts
+#EXTINF:-1,UK: Sky Max FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc81Rbx4s_2I8jO1EDJXX9RD/ts
+#EXTINF:-1,UK: Sky Max HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9uif094oZC1dqgloTfHOU_/ts
+#EXTINF:-1,UK: Sky Max
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8fSLQs2t0L09UYBsM5gYsU/ts
+#EXTINF:-1,UK: Sky Replay
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9MWJoX86P1u-emYVhO6m_6/ts
+#EXTINF:-1,UK: Sky Showcase FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc92lkOTAJTtwalyj1Z-hvKX/ts
+#EXTINF:-1,UK: Sky Showcase HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_C6QMXPcRemWMAMLoFcEvU/ts
+#EXTINF:-1,UK: Sky Showcase
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ZdTiCFR6LZ4lNiFRcAT2q/ts
+#EXTINF:-1,UK: Sky Atlantic FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9HyXIhsX9HHrF5ZHuBv9C-/ts
+#EXTINF:-1,UK: Sky Atlantic HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8MaAV8U3Xs750xrH8tH4ms/ts
+#EXTINF:-1,UK: Sky Atlantic
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc88A3xGIKIeciKmmKMuB4F0/ts
+#EXTINF:-1,UK: Sky Witness FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gej4tdO3Vp3aQ6xNKK0ce/ts
+#EXTINF:-1,UK: Sky Witness HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_zlHL8ug4zC4zsdjPDTT0n/ts
+#EXTINF:-1,UK: Sky Witness
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-EAQh79ueMmaDZ5HJK_TTt/ts
+#EXTINF:-1,UK: W FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IoGj6VqA8dsVejsRFMJkl/ts
+#EXTINF:-1,UK: W HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-S81FYwVq88Y7xDS6XB9uv/ts
+#EXTINF:-1,UK: W
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Eyu8pn07POoiIzUz_RcRC/ts
+#EXTINF:-1,UK: GOLD FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc91rDS1a0wEkVbYakU48XuD/ts
+#EXTINF:-1,UK: GOLD HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_NlxTXhoMhsVCb-t1u-ban/ts
+#EXTINF:-1,UK: GOLD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8IgJ4hoV-soO7UcY6_kYq_/ts
+#EXTINF:-1,UK: GOLD +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cWOOpYWI4sUnoQotPoHVE/ts
+#EXTINF:-1,UK: Dave FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QfQo2LJbVUNvmTWTpaNqX/ts
+#EXTINF:-1,UK: Dave HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-q0y58zbwRPBJTiV299Tfr/ts
+#EXTINF:-1,UK: Dave
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Lyl5tlHA3tvq48dq_I8J9/ts
+#EXTINF:-1,UK: Dave Ja Vu
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9dsut5ROfWITxXga3ANqyL/ts
+#EXTINF:-1,UK: Sky Comedy FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-JCOjfIRuupJ0r2LkhYzeJ/ts
+#EXTINF:-1,UK: Sky Comedy HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9pAVh8YgBav7xZ0X--_9jM/ts
+#EXTINF:-1,UK: Sky Comedy
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_sJ_h9y0K5C_smbBYo-AiV/ts
+#EXTINF:-1,UK: Comedy Central FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Wq-h1miGPFw8ZIuuFzzVb/ts
+#EXTINF:-1,UK: Comedy Central HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_wjYfduDV0wii9PDok1uRu/ts
+#EXTINF:-1,UK: Comedy Central
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9zM0K7znH0FohVZKeHBa_g/ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Nuh6v-HX3srQTC3cD5_WE/ts
+#EXTINF:-1,UK: Comedy Central +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_76maOKgo-J6cPSoRXNFBF/ts
+#EXTINF:-1,UK: ITV2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc85c9NsZQcejylW_WwFipZO/ts
+#EXTINF:-1,UK: ITV2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cyI_71BLPzPLWn8ta1ejp/ts
+#EXTINF:-1,UK: ITV2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_bTbayz90p4m93JWt7hIys/ts
+#EXTINF:-1,UK: ITV2 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_K9yFtx-mUEq0BkQVdW3mG/ts
+#EXTINF:-1,UK: ITV3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9npZ5Q1oNj9vLD86UdRb9D/ts
+#EXTINF:-1,UK: ITV3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8uNF2fS_jALvu4CfoHScoD/ts
+#EXTINF:-1,UK: ITV3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-4GKAiauAffaQ_HV4MYqMR/ts
+#EXTINF:-1,UK: ITV3 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Ffhdd4IHNJZIMLwb-5iDd/ts
+#EXTINF:-1,UK: ITV4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_R2lGnsIuLVVnxk_OxNWmS/ts
+#EXTINF:-1,UK: ITV4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8073wt139siMP7fRJgqJD8/ts
+#EXTINF:-1,UK: ITV4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9XieMGwDBiQLyNOkiUywwP/ts
+#EXTINF:-1,UK: ITV4 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Dx_wFYzpeu7hMax1DprLC/ts
+#EXTINF:-1,UK: ITVBe
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9C-jdUqw1QmdY00tFbVm45/ts
+#EXTINF:-1,UK: BBC Four FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8J9aMK7oJMPMICeG9i75hV/ts
+#EXTINF:-1,UK: Food Network
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9K0DeLtdOED4aN1-uA4RrR/ts
+#EXTINF:-1,UK: Food Network +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8HVEovGSlMZC9FIwrAxn4y/ts
+#EXTINF:-1,UK: Foodxp
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-VSs9lrhMeZYxZEzDuYVT7/ts
+#EXTINF:-1,UK: Drama
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gZSAFlYsjp_vFCK8LMW5P/ts
+#EXTINF:-1,UK: Drama +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9QyKcxb4Z1dFEj39p6590U/ts
+#EXTINF:-1,UK: Court TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KM2OuTsgiFSXvIFBRHCZR/ts
+#EXTINF:-1,UK: Together
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-7xAmpxKiDanufK2CnzY0a/ts
+#EXTINF:-1,UK: HGTV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9P5UBbWidCJPl2ZzEtP61f/ts
+#EXTINF:-1,UK: HGTV +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-E_KxA2taf6zce-dNI0GpY/ts
+#EXTINF:-1,UK: London Live
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_Niu08yeHuLUaVsqN75F74/ts
+#EXTINF:-1,UK: E4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Rzl9oTF7M9zdnC-e63-Lb/ts
+#EXTINF:-1,UK: E4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-PavQ8Mi3-QjHiH8bR63K6/ts
+#EXTINF:-1,UK: E4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8RIS2vqCV6fcE9LKZd5gUR/ts
+#EXTINF:-1,UK: E4 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9zNDwsqRdcOjT4xxQRg16y/ts
+#EXTINF:-1,UK: TLC FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_g9WauX79ZsDHC8pw6Kxz-/ts
+#EXTINF:-1,UK: TLC HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-aLOQfZxmSBMSNf4BnhPEF/ts
+#EXTINF:-1,UK: TLC
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-AfHs6eWswPrq-MdhnNSkj/ts
+#EXTINF:-1,UK: More4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9SWljsbCL4EYnah0GL3sEi/ts
+#EXTINF:-1,UK: More4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GiAtZQ4bf8L9en11Y4T1J/ts
+#EXTINF:-1,UK: More4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zNn2Az9Lfu-OyA3SFJ74h/ts
+#EXTINF:-1,UK: More4 +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8xCAHXewd41GpITIJVGzCD/ts
+#EXTINF:-1,UK: Alibi FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xCZSrxLSvPqJzeq23Aa0R/ts
+#EXTINF:-1,UK: Alibi HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_IZa0J2jSltNcVjSvuJOYt/ts
+#EXTINF:-1,UK: Alibi
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_msV1aoRaaF-2WK1wy2Mxe/ts
+#EXTINF:-1,UK: E! FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_HKhV1ls43zYZN3yVzMSHI/ts
+#EXTINF:-1,UK: E! HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-hE4dbbWdqhhLyo7TL5aSm/ts
+#EXTINF:-1,UK: E!
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_5faFhvCWJX_93TNWQXv1L/ts
+#EXTINF:-1,UK: Sky Arts FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Ka1s0ArrQeWRlFqUjmH63/ts
+#EXTINF:-1,UK: Sky Arts HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-7rpezxEjRC1APRirHIg5e/ts
+#EXTINF:-1,UK: Sky Arts
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DjmMkEh2NKm2d5MVj0DDK/ts
+#EXTINF:-1,UK: Talk TV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8boNQBLIAK3RKFCemOgUwU/ts
+#EXTINF:-1,UK: BBC Four HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8FLru46FQeLzqy0uyG5rnZ/ts
+#EXTINF:-1,UK: Blaze
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8c07YK72y8j0CVdeQL8YZ_/ts
+#EXTINF:-1,UK: Challenge
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2Ayrj4vJafUT6olOTVPR8/ts
+#EXTINF:-1,UK: PBS America
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-fPaxtAvFR6MzNq5DW6oJE/ts
+#EXTINF:-1,UK: DMAX
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-cKw6u1AgOep8bz4a-HtB_/ts
+#EXTINF:-1,UK: DMAX +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-kNGAb7tm-6VqGfxItvkyZ/ts
+#EXTINF:-1,UK: Legend
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-7L5w7cgtI2X-LRmMEIl4J/ts
+#EXTINF:-1,UK: TRUE CRIME
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Mf2j0nTtrHTMCqw-Z6n4T/ts
+#EXTINF:-1,UK: TRUE CRIME +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc85BSNXpm5MCL35vIz6r6Zz/ts
+#EXTINF:-1,UK: Quest FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_52GZ1eVqmMTPszXDdtr6R/ts
+#EXTINF:-1,UK: Quest HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8mGmSdgMOuBpi-SO65H2iP/ts
+#EXTINF:-1,UK: Quest
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc__udHqwjXA9cTtATxHuzSf/ts
+#EXTINF:-1,UK: Quest +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8vp68Rd0pr4bqlAveqn944/ts
+#EXTINF:-1,UK: Quest Red
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc91AyX0R2kUZ2bAa7PWOvya/ts
+#EXTINF:-1,UK: Quest Red +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Mt70LNk2JqDJZDCFzjetf/ts
+#EXTINF:-1,UK: Really
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gN1FvfcaLV-mif3Sc00N9/ts
+#EXTINF:-1,UK: 5SELECT
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ZID3JFGVOfqMu9vJpbkBe/ts
+#EXTINF:-1,UK: 5ACTION
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc86JwGyeSY7AVDwWlP9PSSD/ts
+#EXTINF:-1,UK: 5USA
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-qW32DBwpMyxCJ7Fhh3kOw/ts
+#EXTINF:-1,UK: 5USA +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc90QRHX_Fx8Gv7H4MYehw2N/ts
+#EXTINF:-1,UK: 5STAR
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9LVol7VfZSpN9sJ2IJaHwt/ts
+#EXTINF:-1,UK: 5STAR +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-IzkSf1L2GP4fdL0YQkSKw/ts
+#EXTINF:-1,UK: 4seven
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-bZLT2e2fA9LaGzAoi2-Q4/ts
+#EXTINF:-1,UK: Alibi +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8eKbXUPUpIR1FathZYivC4/ts
+#EXTINF:-1,UK: That's TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc94VvkET1v2BXatDVUXGUeU/ts
+#EXTINF:-1,UK: ITVBe FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-D0hmiqoTQ4Jpai3w-xY61/ts
+#EXTINF:-1,UK: ITV Border England FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8DIewYlmvYNh371v-KwTnu/ts
+#EXTINF:-1,UK: ITV West Country FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-lsQo_NG0pEdn4av77IgJs/ts
+#EXTINF:-1,UK: BBC One Northern Ireland FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8SsvBEI0WGHcGnMfg2aUbw/ts
+#EXTINF:-1,UK: BBC One Scotland FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8PyKkeHCE9k7IocpKUbh9j/ts
+#EXTINF:-1,UK: BBC One Wales FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-KtgG3HW3rROfsCL-en7fB/ts
+#EXTINF:-1,UK: BBC One North West HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8xZxrzi5_NsdDLOVxKuxMM/ts
+#EXTINF:-1,UK: BBC One South West HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9pH39T3rBOXpqUsc43jE-c/ts
+#EXTINF:-1,UK: BBC One South FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8d9tXxRHRK0h5cu1jdf5Z7/ts
+#EXTINF:-1,UK: BBC One Channel Islands FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc--1Xv0-t0_rIK-CSLzxcj7/ts
+#EXTINF:-1,UK: BBC One East FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_heRnwI06Vqae5gJiFMXff/ts
+#EXTINF:-1,UK: BBC One London FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-AT-ijcaXQ6qrp2Kt40-7g/ts
+#EXTINF:-1,UK: BBC One West HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DkmeNQUbtnyJ7HnHL5Ffa/ts
+#EXTINF:-1,UK: BBC One Yorks & Lincs FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_BFYGpOj082xFiZUM1gcZ_/ts
+#EXTINF:-1,UK: BBC One West Midlands FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_J8mwOf4_Fi5IDqSNWArYk/ts
+#EXTINF:-1,UK: BBC One South East HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-OUYxzJH_6e9Bopsz5pPko/ts
+#EXTINF:-1,UK: BBC Two Northern Ireland FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8hm6jcxWDgtGgHOhxzq3L_/ts
+#EXTINF:-1,UK: BBC Two Wales FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc93UKS5BxbWGTVFSEvE70iJ/ts
+#EXTINF:-1,UK: BBC One East Midlands FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-oNT2R0yENiUgYyUzGr9bK/ts
+#EXTINF:-1,UK: ITV Border Scotland
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DoMNq9xJrzS6LHvKBqxn2/ts
+#EXTINF:-1,UK: ITV Cymru Wales FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Zt0Ef1SYcOztxYBNlLPzq/ts
+#EXTINF:-1,UK: ITV Central East FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-J--CmRAWqQgftuLcGL8D3/ts
+#EXTINF:-1,UK: ITV Central West FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-P_c8BYEkaFEAR9UjS62vd/ts
+#EXTINF:-1,UK: ITV Central West +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9OA4K6QT0REikjatnu_cYJ/ts
+#EXTINF:-1,UK: ITV Meridian East
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9lPebCbjJ_RlORgz1clMzr/ts
+#EXTINF:-1,UK: ITV London FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ooVwtyimlyT6dvOw1cIei/ts
+#EXTINF:-1,UK: ITV London +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_yH4Eb4Su_RfdHLeDK9ixp/ts
+#EXTINF:-1,UK: ITV Granada FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9HAwxGhVpHmZ_tqsTO5Nhb/ts
+#EXTINF:-1,UK: ITV Granada +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_FyLwVSQvNQFzjdpnvuQ8O/ts
+#EXTINF:-1,UK: ITV Meridian South FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_kMk8LVmd2UEkwGDj8ydXI/ts
+#EXTINF:-1,UK: ITV Meridian North FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9amf0aLKjvEoJ2RfisceD9/ts
+#EXTINF:-1,UK: ITV Yorkshire West FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Lf7B2ri-2HIt-Ute0m88g/ts
+#EXTINF:-1,UK: ITV Yorkshire East FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-uhBQN9EAogva3oy8DlP37/ts
+#EXTINF:-1,UK: ITV Tyne Tees FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8DStT8iNxxrZfQu59PtJ8l/ts
+#EXTINF:-1,UK: ITV Meridian South Coast FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xC3iaK0tKRLkRbCLZyerq/ts
+#EXTINF:-1,UK: ITV Anglia East FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hVidicQWie3OsRjxPPFwq/ts
+#EXTINF:-1,UK: ITV Anglia West FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_dVVOBHgyZ8_80eSmiQOzm/ts
+#EXTINF:-1,UK: STV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_B0ORRV1A4y0KZLDvlu2EF/ts
+#EXTINF:-1,UK: STV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-8OkLiPwVfOx0qGeBd-XaS/ts
+#EXTINF:-1,UK: STV Central East
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_sz-PnBzhZaA8Y3Z72xpPg/ts
+#EXTINF:-1,UK: STV Central West
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_b6kzV2PmLpSk-TvoDfKZg/ts
+#EXTINF:-1,UK: STV North
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Q2Afo3mWIRHfi2EjcCTjp/ts
+#EXTINF:-1,UK: UTV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8rgLP2zPaFG43e4Bc-7xbR/ts
+#EXTINF:-1,UK: Channel 4 Northern Ireland
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_dsh7mTWHIXIi9BgKtGcZu/ts
+#EXTINF:-1,UK: Channel 4 Scotland
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8BZc-gOaSqxqCckKpmHCm-/ts
+#EXTINF:-1,UK: Channel 4 Scotland +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9kCT5MrIQnwFCXvRvhdp3Z/ts
+#EXTINF:-1,UK: Channel 4 North
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8u6xW-l5z329dzRDF8E4QW/ts
+#EXTINF:-1,UK: Channel 4 North +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9BPAmb1oHiZTqz4GkIdD3x/ts
+#EXTINF:-1,UK: Channel 4 South & East +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8_oCtI77fu4ovII_EzcsaA/ts
+#EXTINF:-1,UK: Channel 4 London
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8eIDnWTqxZpfFNdcuZYjrH/ts
+#EXTINF:-1,UK: Channel 4 London +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9v_jo2Pva4k7gya6cLH-Dk/ts
+#EXTINF:-1,UK: Channel 4 South & East
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-EjV6i__e-ooJpblNvuJLY/ts
+#EXTINF:-1,UK: Channel 4 Midlands
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc96VIOJ0rgwzEMQH65zhULt/ts
+#EXTINF:-1,UK: BBC Scotland FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-mflIYZnStdsbbd5pA3Fwk/ts
+#EXTINF:-1,National League | Event 1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc89O6z63hUkR3eJmJ1z6y76/ts
+#EXTINF:-1,National League | Event 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_QqEU5oDpVbTO0lT7xRgGb/ts
+#EXTINF:-1,National League | Event 3
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-jrgZs7EciXN73nVEVM3XO/ts
+#EXTINF:-1,National League | Event 4
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_qgO2f12jlYy4C-s2Xz_pK/ts
+#EXTINF:-1,National League | Event 5
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cOk4NUdJ2BZFN8MwWHVAB/ts
+#EXTINF:-1,National League | Event 6
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-6OXVEz35FIIXYHufysDuC/ts
+#EXTINF:-1,National League | Event 7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9m7t03u_9M-c2QnVvGNA8h/ts
+#EXTINF:-1,National League | Event 8
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-4zd9PxDpANvs7UHPycZXt/ts
+#EXTINF:-1,National League | Event 9
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-bYxAZpZAqLmaPcSsKwD6q/ts
+#EXTINF:-1,National League | Event 10
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8LqIArjGheujynX4cu7o1a/ts
+#EXTINF:-1,National League | Event 11
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9sMjugpJQR_kCAMUBaE4Nn/ts
+#EXTINF:-1,National League | Event 12
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9bzZSNOJsav5_PQQiqUji1/ts
+#EXTINF:-1,National League | Event 13
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_2pPrh7AeP_3x0u5HqCjAb/ts
+#EXTINF:-1,National League | Event 14
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9tWGX7Fwsym5Yd64RYfrw5/ts
+#EXTINF:-1,National League | Event 15
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8J50FdIObYk0lX9B3fg_2Y/ts
+#EXTINF:-1,National League | Event 16
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc89xWDBdiXXlgK2p6xWBQVz/ts
+#EXTINF:-1,National League | Event 17
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TkEHEnm3nxDQ-DMPrsYRq/ts
+#EXTINF:-1,National League | Event 18
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9dVqlVhl1OLKyPAlvo2mkQ/ts
+#EXTINF:-1,National League | Event 19
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-EyWzW3XhsNj8WzAtKW9Ek/ts
+#EXTINF:-1,National League | Event 20
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc84s7zZcG14l4mDvc0RHwyK/ts
+#EXTINF:-1,National League | Event 21
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9sj67EqFFgGPrTN0FReXKp/ts
+#EXTINF:-1,National League | Event 22
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Yl8T5c5s0mmGjrltjEM0z/ts
+#EXTINF:-1,National League | Event 23
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_7ofZKzQdZY4YCFeW7d1Iz/ts
+#EXTINF:-1,National League | Event 24
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8PAEdgB0XIZ4Hyij3nbMfN/ts
+#EXTINF:-1,National League | Event 25
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_YJszxD0H2NCsf6nAeIVoM/ts
+#EXTINF:-1,National League | Event 26
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8qXUNpr5My57dyZXzJH79o/ts
+#EXTINF:-1,National League | Event 27
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc87Eh0JVhSRjEB5RvLJ-Ihk/ts
+#EXTINF:-1,National League | Event 28
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cTmgKsp2YkPvzI0h9W6-R/ts
+#EXTINF:-1,National League | Event 29
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xLj4tDvUUWpk83HdqfoAp/ts
+#EXTINF:-1,National League | Event 30
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9JB0lFMn3qTCIy0A7ngiqR/ts
+#EXTINF:-1,National League | Event 31
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8C0U_ooA_QaxQM7_ks4BvB/ts
+#EXTINF:-1,National League | Event 32
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xbqIGLPg55iGb6DV7b_AW/ts
+#EXTINF:-1,National League | Event 33
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_xwTT5_Is_MiOTZpc-eQBE/ts
+#EXTINF:-1,National League | Event 34
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-e3js5wYelvBQ_bvHsaFAI/ts
+#EXTINF:-1,National League | Event 35
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9RrmqS_byPzA3CWtdzzzyQ/ts
+#EXTINF:-1,National League | Event 36
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8KodbHbs-FH9LjZ9QEhyQU/ts
+#EXTINF:-1,National League | Event 37
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9oyvFlChShQ5Z2uzgSZLys/ts
+#EXTINF:-1,National League | Event 38
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9243JyEDNN_-d3NCtuGktu/ts
+#EXTINF:-1,UK: 92 News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9s-CJP0yIDrniYrAGKRCCe/ts
+#EXTINF:-1,UK: AAJ TAK
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9N5O1yJ9iMsIbPr_KfWklt/ts
+#EXTINF:-1,UK: Aastha TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-MH3ZXXfihPPC6rjAXsjfg/ts
+#EXTINF:-1,UK: ABN TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9AkqU2qU9Prs6DnF6qLGfk/ts
+#EXTINF:-1,UK: Ahlebait TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8rmv14eGW9w-vEU21R7FwS/ts
+#EXTINF:-1,UK: Ahlulbayt TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_yYNb7yJgfz42_Eja6MmOb/ts
+#EXTINF:-1,UK: Akaal Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-loCezFGYa8RdZUlEgZCgV/ts
+#EXTINF:-1,UK: Arirang TV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-_YFrLzzrN1lxBL2DXkTsI/ts
+#EXTINF:-1,UK: Arise News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hKeV1EN3w_pNzmH6mJ-wI/ts
+#EXTINF:-1,UK: ARY Digital UK
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-_3qPF2qAW971R6mlKk1or/ts
+#EXTINF:-1,UK: ARY Family
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc--3PLLdoWkSNsA_79bltxu/ts
+#EXTINF:-1,UK: ATN
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-e15KArrtv0VqHSfNjtYcD/ts
+#EXTINF:-1,UK: Ayozat TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc80GiiLyziL8-qCx2yx2tj7/ts
+#EXTINF:-1,UK: B4U Movies
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TsjNk0THiLcDHhZVzWhNP/ts
+#EXTINF:-1,UK: B4U Music
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8S9f7QZJdxQudcYUgfwAif/ts
+#EXTINF:-1,UK: Brit Asia
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Ebo6wgHkHj-uj0RB3JoAE/ts
+#EXTINF:-1,UK: British Muslim
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_UqgXfP-v5NSE8gXPx0HKo/ts
+#EXTINF:-1,UK: Channel 7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8g8ecKJza3BGCVlIrUZ1kv/ts
+#EXTINF:-1,UK: Channel AKA
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9fOgeOI-tNXMepWpSbM7Mu/ts
+#EXTINF:-1,UK: CHANNEL 24 TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-QUNII13YsTMJyggSQXlJN/ts
+#EXTINF:-1,UK: Channel S
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6kVvoEsRl7p-GC1yWrXB_/ts
+#EXTINF:-1,UK: Colors Cineplex FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_YZquZiGJbkPANPKDdrHUG/ts
+#EXTINF:-1,UK: Colors FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_EaTC3VByFvXS4n6Wpgn07/ts
+#EXTINF:-1,UK: Colors Rishtey
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9vsSEMdpIT5u-sMCO7CAqI/ts
+#EXTINF:-1,UK: Daystar HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Z-cuGJk9tRmJUkvHcnH2o/ts
+#EXTINF:-1,UK: Deen TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8OXl0_Nv7czsK5gMTC1Pdw/ts
+#EXTINF:-1,UK: Dunamis TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-kEQ8-jCF7WCneogAmjSMR/ts
+#EXTINF:-1,UK: Dunya News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-1pEF1xGsIDov4MUI9uU3k/ts
+#EXTINF:-1,UK: Eman Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Qxbf5OQFFESew-Gs6v8_F/ts
+#EXTINF:-1,UK: ETV 6
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_p8aGkGZDTiAVz1XalKD-v/ts
+#EXTINF:-1,UK: Geo News
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GvddA2M-O1bwvV5aaM8HZ/ts
+#EXTINF:-1,UK: Geo TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8zlI4rNjhzWKg0FW1L9bZJ/ts
+#EXTINF:-1,UK: GOD Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9AArAxoORiG4VWsqN8qFCe/ts
+#EXTINF:-1,UK: Great TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9mzotMvg9bjcKK44-DXiu_/ts
+#EXTINF:-1,UK: Great! Classic
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9HrF1LeSuCaqTzfmMa_Lhw/ts
+#EXTINF:-1,UK: Hi-Impact TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_HK0iKRETfJBBmNEiz9Sov/ts
+#EXTINF:-1,UK: Hidayat TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8qhqtshYIQGSqCC4G59zpG/ts
+#EXTINF:-1,UK: Hum Europe
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9r48KUE7ZlEQzVc7YcmOno/ts
+#EXTINF:-1,UK: Hum Masala
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-0xASYw3rjytznaHdKi926/ts
+#EXTINF:-1,UK: ION TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8E70TNhlQrDZVcBLhMDhMN/ts
+#EXTINF:-1,UK: Iqra Bangla
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zyUaaeiD-FQcv5UREdpsD/ts
+#EXTINF:-1,UK: Iqra TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_W0nNfqLSi0I3-R43nrwuV/ts
+#EXTINF:-1,UK: Iran Inetrnational FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_1QbxVIYp2JhpWFT0AQvcI/ts
+#EXTINF:-1,UK: Islam Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc91GWf5hZBDuoOziluKnBdD/ts
+#EXTINF:-1,UK: Islam TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-zost-M7CreRXLM0fYHFrP/ts
+#EXTINF:-1,UK: Kanshi TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9HEB5XnTq42_wmgiFh_Q59/ts
+#EXTINF:-1,UK: KICC TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9ZAYD5OONRHbsaZePtem2b/ts
+#EXTINF:-1,UK: KTV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9FrFvWlGhD7OO0rlnMo9qh/ts
+#EXTINF:-1,UK: LOCAL TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Oe69efi4-g-yrJKIgR_7F/ts
+#EXTINF:-1,UK: Love World FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_KvqPXp75-5Sq0vf-Bq3Ih/ts
+#EXTINF:-1,UK: Madani Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-OWzbPK8YRIMMdfYZWYlwg/ts
+#EXTINF:-1,UK: MATV National
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9Gs2UDNVZIFWVQ9s34lrYb/ts
+#EXTINF:-1,UK: NDTV 24x7
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8M3TV4BPFbuVP24I4_rOkt/ts
+#EXTINF:-1,UK: New Media FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8kMrWDKxB0VeZy4ayfEVvJ/ts
+#EXTINF:-1,UK: New Vision TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8hAIkGdBtAkcOs8K_IlyFy/ts
+#EXTINF:-1,UK: NHK World FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc84qz5CiutOkiDKAZLHb5_U/ts
+#EXTINF:-1,UK: Noor TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-DOenXLfdlcGr6mOYgjCQ9/ts
+#EXTINF:-1,UK: NTV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_mczYKbgH2cSQUF7D_1b4s/ts
+#EXTINF:-1,UK: Pitaara
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9MVU3-9ltnOPC07Qhmlgzy/ts
+#EXTINF:-1,UK: Politics Punjab TV
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-oqr8ji-UgvtmHFLBY3t66/ts
+#EXTINF:-1,UK: PTC Punjabi
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9txZDFfe5mKgSc6CkDDmHB/ts
+#EXTINF:-1,UK: PTV Global
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8QkwjdxSbdemfmIB3e9DFJ/ts
+#EXTINF:-1,UK: Sangat
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-nqOX2ZxtqOS1C0zo6LUGh/ts
+#EXTINF:-1,UK: Sanskar
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc81wY_rLBUSSrCeiEhniYeU/ts
+#EXTINF:-1,UK: SET MAX
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_gzvi1wn1K4o98se1hqn6k/ts
+#EXTINF:-1,UK: Showcase
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-d2XRO1sBOjQIXFZigYSDy/ts
+#EXTINF:-1,UK: Sikh Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc81fAaVLMnLPpbi0yk8xhS1/ts
+#EXTINF:-1,UK: SonLife
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9IVfpTpuvKIdmBJB5wXHAh/ts
+#EXTINF:-1,UK: Sony Ent Channel
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9xJFbKQJHTQDDFaHmmTw0E/ts
+#EXTINF:-1,UK: Sony Max FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9rHpalg1mLseIIAjiw0xCE/ts
+#EXTINF:-1,UK: Sony Max 2
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8_Bj702eSgl3sIslgE0aVO/ts
+#EXTINF:-1,UK: Sony Sab
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8sbpj1VusOaCHzUqqqp7J9/ts
+#EXTINF:-1,UK: Star Bharat
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9KBaOpTY1J8CBDlO_Ki87z/ts
+#EXTINF:-1,UK: Star Gold
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9A_q7e7ZtDFsOO1rVpCkgv/ts
+#EXTINF:-1,UK: Star Plus
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_jTKoOcV7bl_hXE95aK28K/ts
+#EXTINF:-1,UK: Takbeer
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_i4Oz1McrpTa16-kSHFJYy/ts
+#EXTINF:-1,UK: TJC Beauty FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8TMDNmVmXPE7lyxwTZ7iip/ts
+#EXTINF:-1,UK: TRT World FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9uk8KhTtGdWqO-JqtWoFRB/ts
+#EXTINF:-1,UK: TRT World
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-PVM8YyNysoRuQsaKgJ_C4/ts
+#EXTINF:-1,UK: TV One
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_PtnGhqk9qhnaR6DMGKgqC/ts
+#EXTINF:-1,UK: Utsav Gold FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8cNPl-xpfMl2aRYaBrZuoz/ts
+#EXTINF:-1,UK: Utsav Gold
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8hHQLhntfeCWglYyc4wJvi/ts
+#EXTINF:-1,UK: Utsav Plus FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-TyomYQxVi90s5peDmYyH4/ts
+#EXTINF:-1,UK: Utsav Plus
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc90UbAWr54In-unDzwEUuuQ/ts
+#EXTINF:-1,UK: Wion FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9pAW7MRgHJOiysx22o0O_m/ts
+#EXTINF:-1,UK: World Network
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_V26eRTAHQBgh1voCpzpMS/ts
+#EXTINF:-1,UK: Zee Cinema
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-Iu1axP2maHpc4rBZq1Cvv/ts
+#EXTINF:-1,UK: Zee TV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-kVfbiklS9fbY9VxEij-XF/ts
+#EXTINF:-1,UK: GREAT! tv +1
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9oxhphDUGVf28yvjg2VuTs/ts
+#EXTINF:-1,UK: GREAT! tv
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_pjiPdobGxV68lZ2H7ja47/ts
+#EXTINF:-1,UK: Sony TV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-tlVSlfXDSbu5vJYzblwMs/ts
+#EXTINF:-1,UK: Sony Max FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9YcXxNvArG0ce5WF513GJv/ts
+#EXTINF:-1,EPL 01 ??FA CUP??
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8gzhMuAX0NlFwBJlRMOUZo/ts
+#EXTINF:-1,EPL 02 | Wigan Athletic vs Manchester United 20:15
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc97DIcZOiox-XSAYwOfGsLB/ts
+#EXTINF:-1,EPL 03 | Wigan Athletic vs Manchester United 20:15
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_6Mg9IDGagxQ_ZnUgQ3xBE/ts
+#EXTINF:-1,EPL 04 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_H68tCubFQHjqylmchwArL/ts
+#EXTINF:-1,EPL 05 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-lcGwtWhCHyZceOAku9jqz/ts
+#EXTINF:-1,EPL 06 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-JELj5AaMux6UWj_oE6xVN/ts
+#EXTINF:-1,EPL 07 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8gca_gTBualQGBQ6IASm4y/ts
+#EXTINF:-1,EPL 08 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_LLBQgWRsY58hsXUg6SUv3/ts
+#EXTINF:-1,EPL 09 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9bxaR8cag5tnnxEthIdOIw/ts
+#EXTINF:-1,EPL 10 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_aH3COf-I8MLkBOJOzGnF1/ts
+#EXTINF:-1,EPL 11 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8GUZgk_2NkXlW2A3WSD2XU/ts
+#EXTINF:-1,EPL 12 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-wZ9HqkrqTH0Wd6yevFH3f/ts
+#EXTINF:-1,EPL 13 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9gUN8LL4qD9N030pfse7JX/ts
+#EXTINF:-1,EPL 14 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-BpLSJzs6t4DR9_tpabjtw/ts
+#EXTINF:-1,EPL 15 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-GBxXtm6-jocgCnIo3z2if/ts
+#EXTINF:-1,EPL 16 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8uQ0XoVRSwOa4VqNM7tVzV/ts
+#EXTINF:-1,EPL 17 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-dORBIUSoGyd04fxyAzKk7/ts
+#EXTINF:-1,EPL 18 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8NXPzUI7TBTMF7qMJpQRmV/ts
+#EXTINF:-1,EPL 19 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9eXrms2bPdD41ZlYZQoMdo/ts
+#EXTINF:-1,EPL 20 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-9ZnQO5e2KCSyFTwJdoe9T/ts
+#EXTINF:-1,EPL 21 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-4qhliFre3P1p602Stg8is/ts
+#EXTINF:-1,EPL 22 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8zf_v4rhgMDyD4YQzjCyzf/ts
+#EXTINF:-1,EPL 23 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8ObIfaJ8ouoicYEZ0CyRAv/ts
+#EXTINF:-1,EPL 24 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8HRLyKB37wOIxeBjDF7DLU/ts
+#EXTINF:-1,EPL 25 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-9tDe5Zl-RAuJtiOoImiuS/ts
+#EXTINF:-1,EPL 26 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8FvdV5Lto6teiZ7oUQ44Ds/ts
+#EXTINF:-1,EPL 27 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_SA6rQOTGL2ms00PAG7imt/ts
+#EXTINF:-1,EPL 28 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9tBfoloNhfUNyjvLpIbudc/ts
+#EXTINF:-1,EPL 29 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc94Evwbu3528AbB4IwfGYP4/ts
+#EXTINF:-1,EPL 30 | 
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_sD2ddKHkLBD2l0mCf_iJk/ts
+#EXTINF:-1,Now Sports 4K 1 UHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_iUC5UAoAzwZ8sFSCtSmei/ts
+#EXTINF:-1,Now Sports 4K 2 UHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9bv95SVaPS_dj5eK0v9oZ6/ts
+#EXTINF:-1,Now Sports 4K 3 UHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Rmp8R3eqDBO2rE8Fbg2N9/ts
+#EXTINF:-1,Now Sports Premier League TV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_3Yi_RZ_AzVgO79KwLa2sd/ts
+#EXTINF:-1,Now Sports Premier League 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8NCEHnW6C3ku_uTpmyUiUa/ts
+#EXTINF:-1,Now Sports Premier League 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_vJWOELvvQS01ZLgjV3mwk/ts
+#EXTINF:-1,Now Sports Premier League 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8XdWkAUkE3fmigV40iSgps/ts
+#EXTINF:-1,Now Sports Premier League 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9X3aQqidbJo1PQP1LutGiX/ts
+#EXTINF:-1,Now Sports Premier League 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_ZWO_kp2u52s64t931n3z_/ts
+#EXTINF:-1,Now Sports Premier League 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_HdM9eyyWecrXFNrFdSPtZ/ts
+#EXTINF:-1,Now Sports Prime HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_yeUNXndQn50L_EUtn-DMA/ts
+#EXTINF:-1,Now Sports 1 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Dc4ScDGmQkQ7mIu0XCYQz/ts
+#EXTINF:-1,Now Sports 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8mb1aNOn17Por9ug_n1r40/ts
+#EXTINF:-1,Now Sports 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-k4H3c-mDTH91hmgchbWJ-/ts
+#EXTINF:-1,Now Sports 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_-tsHfRgb8d2XtqvjIe3IQ/ts
+#EXTINF:-1,Now Sports 5 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8q68GlpBZF7FRsj3Ju_QXy/ts
+#EXTINF:-1,Now Sports 6 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_pucBlSBNX2pLtlSC_W0Ph/ts
+#EXTINF:-1,Now Sports 7 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc81vV_xh46igKCA1SB2AR_z/ts
+#EXTINF:-1,Now beIN Sports 1 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8fH03JrbORcr7QJdoDGYCO/ts
+#EXTINF:-1,Now beIN Sports 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_9q_IY_1xVAl5mFKiuBNv4/ts
+#EXTINF:-1,Now beIN Sports 3 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Y6_RXOFd09Qj1tjXr1ssd/ts
+#EXTINF:-1,Now beIN Sports 4 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_SvX-rxPd82a3lwq58Z4_A/ts
+#EXTINF:-1,Now beIN Sports 5 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_fkBwcCp2OiHy_uIev9DW1/ts
+#EXTINF:-1,Now beIN Sports 6 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hkls_U0EoRcTSxe6x7rEd/ts
+#EXTINF:-1,Now Fight Sports HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Og44EN1gDEZt1GQKnlJd3/ts
+#EXTINF:-1,Now SPOTV FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc99gJQJJHuormJuadLfXjGP/ts
+#EXTINF:-1,Now SPOTV 2 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_nJiDIpL-SnaibjRSwKH5m/ts
+#EXTINF:-1,Now Astro Cricket HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_3kkTXywGm1Hf0xU-NttKd/ts
+#EXTINF:-1,Now Sports Plus FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8A04RwpvaAKfBaUOVhvt33/ts
+#EXTINF:-1,Now Sports 681 FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-OgzcFiekcnFFaAAFsdp2g/ts
+#EXTINF:-1,Now Golf 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc8Ji-0DjUtzVLbnRPruzB61/ts
+#EXTINF:-1,Now Golf 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_SixD16HHRM26FsW_UfsdY/ts
+#EXTINF:-1,Now MUTV HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9JDaY2bEFv7xnb379Lsep_/ts
+#EXTINF:-1,MY: Astro SuperSport UHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_HZHgoWLx-z4QjKjEzN1D0/ts
+#EXTINF:-1,MY: Astro SuperSport HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9D0bzzbPvPWBPlXMWrgOL_/ts
+#EXTINF:-1,MY: Astro SuperSport 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_an9jL7O18AWkxoEbqdnSE/ts
+#EXTINF:-1,MY: Astro SuperSport 3 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9T9dJy13i-mNisYV-Denij/ts
+#EXTINF:-1,MY: Astro SuperSport 4 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9M6EQwutsDXjbuNvFAYcy3/ts
+#EXTINF:-1,MY: Astro Arena HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc92IdOXqy7opUGASwBmXzMi/ts
+#EXTINF:-1,MY: Astro Arena 2 HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc9m-6nhsi1Kr_G2K0_QfNuI/ts
+#EXTINF:-1,MY: Astro Cricket FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-i5GzlVM1YDoxsYB0MqCUF/ts
+#EXTINF:-1,MY: Astro Cricket Plus FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc__AIYe7ULtQDA1W-bNN5yx/ts
+#EXTINF:-1,MY: W-Sport FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-gYtH5Vw6krboYdxrqqFyN/ts
+#EXTINF:-1,UK: Nick Jr. FHD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-LK5usT6GPuffmZ1mTB1Y0/ts
+#EXTINF:-1,UK: Nick Jr. HD
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc_hRHKSpoSqnJyf4LL0Hjzk/ts
+#EXTINF:-1,UK: Nick Jr.
+http://gw-01ycr1zdt8.com:8080/play/4ukw26cDFi2pqRMbZY8XlUcwlDknaNdzx-mL7OGrGc-CRWbF2vWBgZSPaHrrPybE/ts
